@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JSON...</title>
+    <link rel="shortcut icon" id="flavicon" href="https://www.postgresql.org/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        var flaviconUrlUnchanged = "https://www.postgresql.org/favicon.ico";
+        var flaviconUrlChanged = "https://www.ns.nl/static/favicons/1.0.0/favicon/favicon-32x32.png";
+        var changed;
+        var initialData;
+
+        $(document).ready(function () {
+
+                initialData = {
+                "firstName": "John",
+                "lastName": "Doe",
+                "age": "30",
+                "height": "186"
+            };
+
+            for (const property in initialData) {
+                $('#' + property).val(initialData[property]);
+            }
+
+            var fieldNames = $("[for]").map(function () {
+                return $(this).attr("for");
+            }).get();
+
+            $.each(fieldNames, function (index, fieldName) {
+                $('#' + fieldName).on('blur focus', hasChanged)
+            });
+        });
+
+
+        function hasChanged() {
+            changed = false;
+            for (const property in initialData) {
+                if ($('#' + property).val() !== initialData[property]) {
+                    $("label[for='" + property + "']").addClass("changed");
+                    changed = true;
+                } else {
+                    $("label[for='" + property + "']").removeClass("changed")
+                }
+            }
+            $("#flavicon").attr("href", changed ? flaviconUrlChanged : flaviconUrlUnchanged);
+
+        }
+
+    </script>
+
+    <style>
+        .changed::after {
+            content: "*";
+            color: red;
+            font-size: 15px;
+            vertical-align: super;
+        }
+
+    </style>
+</head>
+<body>
+<form id="person">
+    <div class="row">
+        <div class="col-sm-1"></div>
+        <div></div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-11">
+            Let op het flavicon en het veldlabel als een veldwaarde wordt gewijzigd en teruggezet naar de originele waarde (bij verlaten van het veld).<br>
+            Gebruik dit om aan te geven dat een waarde is veranderd.<br>
+            Je moet dit aan het icon kunnen zien en op de pagina.<br>
+            Maak zelf twee icons.<br>
+            Controleer of de velden zijn gewijzigd bij het unload event.
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-1"></div>
+        <label for="firstName" class="col-sm-2 col-form-label">Voornaam:</label>
+        <div class="col-sm-4">
+            <input id="firstName" type="text" class="form-control" placeholder="Voornaam" name="firstName">
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-1"></div>
+        <label for="lastName" class="col-sm-2 col-form-label">Achternaam:</label>
+        <div class="col-sm-4">
+            <input id="lastName" type="text" class="form-control" placeholder="Achternaam" name="lastName">
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-1"></div>
+        <label for="age" class="col-sm-2 col-form-label">Leeftijd:</label>
+        <div class="col-sm-4">
+            <input id="age" type="text" class="form-control" placeholder="Leeftijd" name="age">
+        </div>
+    </div>
+    <div class="form-group row">
+        <div class="col-sm-1"></div>
+        <label for="height" class="col-sm-2 col-form-label">Lengte:</label>
+        <div class="col-sm-4">
+            <input id="height" type="text" class="form-control" placeholder="Lengte" name="height">
+        </div>
+    </div>
+</form>
+</body>
+</html>

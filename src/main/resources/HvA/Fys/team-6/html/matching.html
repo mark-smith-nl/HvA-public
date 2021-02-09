@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Matching</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.fys.cloud/fyscloud/0.0.3/fyscloud.bundle.min.js"></script>
+    <script src="../js/config.js"></script>
+
+    <script>
+        function match() {
+            var matches = [];
+            FYSCloud.API.queryDatabase(
+                "with my_interesses as (\n" +
+                "    select interesse.*\n" +
+                "    from profile_interesse\n" +
+                "    join interesse on profile_interesse.interesse_id = interesse.interesse_id\n" +
+                "    where profile_id = 6),\n" +
+                "matches as (\n" +
+                "\tselect \n" +
+                "\t\tprofile.profile_id as profile_id, \n" +
+                "\t\tprofile.firstname as firstname, \n" +
+                "\t\tprofile.lastname as lastname, \n" +
+                "\t\tmy_interesses.interesse as interesse\n" +
+                "\tfrom profile_interesse\n" +
+                "\tjoin my_interesses on profile_interesse.interesse_id = my_interesses.interesse_id\n" +
+                "\tjoin profile on profile.profile_id = profile_interesse.profile_id),\n" +
+                "matches_withoutme as (\n" +
+                "\tselect *\n" +
+                "\tfrom matches\n" +
+                "\twhere profile_id <> 6\n" +
+                "\torder by profile_id, interesse)\n" +
+                "select\n" +
+                "\tprofile_id, \n" +
+                "\tlastname,\n" +
+                "\tfirstname,\n" +
+                "\tcount(*) as numberOfSharedinterests,\n" +
+                "\tGROUP_CONCAT(interesse) as interests\n" +
+                "from matches_withoutme\n" +
+                "group by profile_id, lastname, firstname\n" +
+                "order by numberOfSharedinterests desc"
+            ).done(function(data) {
+                console.log(data);
+                $.each(data, function( index, match ) {
+                    matches.push(match);
+                    $('tbody').append('<tr>' +
+                        '<td>' + match.lastname + '</td>' +
+                        '<td>' + match.firstname + '</td>' +
+                        '<td>' + match.numberOfSharedinterests + '</td>' +
+                        '<td>' + match.interests + '</td>' +
+                        '</tr>')
+                });
+            }).fail(function(reason) {
+                console.log(reason);
+            });
+        }
+
+    </script>
+</head>
+<body>
+<div class="container">
+    <table class="table table-hover">
+        <thead>
+        <tr>
+            <th>Firstname</th>
+            <th>Lastname</th>
+            <th>#</th>
+            <th>Interests</th>
+        </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <button type="button" class="btn btn-primary" onclick="match()">Match</button>
+</div>
+</body>
+</html>

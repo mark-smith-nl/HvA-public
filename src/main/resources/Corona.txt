@@ -1,0 +1,1002 @@
+Student
+Nurse Nurse-1 Patient (2003-02-04) arrived: 08:00:18  Sampled: 08:00:18
+Nurse Nurse-4 Patient (1931-09-13) arrived: 08:00:29  Sampled: 08:00:29 
+Nurse Nurse-2 Patient (1953-07-07) arrived: 08:01:00  Sampled: 08:01:00 
+Nurse Nurse-3 Patient (1945-07-19) arrived: 08:01:37  Sampled: 08:01:37 
+Nurse Nurse-4 Patient (1958-03-20) arrived: 08:04:44  Sampled: 08:04:44 
+Nurse Nurse-1 Patient (1990-10-22) arrived: 08:04:54  Sampled: 08:04:54 
+Nurse Nurse-2 Patient (1968-06-13) arrived: 08:05:05  Sampled: 08:05:05 <===
+Nurse Nurse-3 Patient (1968-10-04) arrived: 08:05:11  Sampled: 08:05:11 
+Nurse Nurse-2 Patient (1953-09-08) arrived: 08:05:16  Sampled: 08:06:10 
+Nurse Nurse-1 Patient (1961-09-28) arrived: 08:05:35  Sampled: 08:06:19 
+Nurse Nurse-3 Patient (1954-08-13) arrived: 08:05:39  Sampled: 08:06:35 
+Nurse Nurse-4 Patient (1985-09-20) arrived: 08:06:27  Sampled: 08:07:21 
+Nurse Nurse-1 Patient (1981-10-11) arrived: 08:06:38  Sampled: 08:07:42 
+Nurse Nurse-2 Patient (1928-12-01) arrived: 08:06:41  Sampled: 08:08:27 
+Nurse Nurse-4 Patient (2004-10-06) arrived: 08:06:58  Sampled: 08:08:33 
+Nurse Nurse-1 Patient (1948-09-04) arrived: 08:07:07  Sampled: 08:08:44 
+Nurse Nurse-3 Patient (1985-11-03) arrived: 08:07:12  Sampled: 08:08:47 
+Nurse Nurse-2 Patient (1952-04-18) arrived: 08:07:33  Sampled: 08:09:51 
+Nurse Nurse-4 Patient (1968-11-15) arrived: 08:07:39  Sampled: 08:10:07 <===
+Nurse Nurse-1 Patient (1969-02-14) arrived: 08:07:42  Sampled: 08:10:25 
+Nurse Nurse-3 Patient (1966-07-24) arrived: 08:10:01  Sampled: 08:10:57 
+Nurse Nurse-4 Patient (1941-01-06) arrived: 08:10:27  Sampled: 08:11:28 
+Nurse Nurse-1 Patient (1932-07-17) arrived: 08:11:12  Sampled: 08:12:13 
+Nurse Nurse-2 Patient (1999-03-22) arrived: 08:12:15  Sampled: 08:12:20 <===
+Nurse Nurse-3 Patient (1983-03-07) arrived: 08:12:48  Sampled: 08:12:52 
+Nurse Nurse-4 Patient (1956-11-07) arrived: 08:13:00  Sampled: 08:13:39 
+Nurse Nurse-2 Patient (1981-09-14) arrived: 08:13:14  Sampled: 08:13:42 
+Nurse Nurse-1 Patient (2002-02-13) arrived: 08:13:19  Sampled: 08:14:02 
+Nurse Nurse-2 Patient (1988-05-20) arrived: 08:13:37  Sampled: 08:14:48 
+Nurse Nurse-3 Patient (1982-06-09) arrived: 08:14:15  Sampled: 08:15:26 
+Nurse Nurse-1 Patient (1965-03-15) arrived: 08:14:20  Sampled: 08:15:56 <===
+Nurse Nurse-4 Patient (1974-10-05) arrived: 08:14:20  Sampled: 08:16:17 
+Nurse Nurse-2 Patient (1976-09-05) arrived: 08:14:54  Sampled: 08:16:59 
+Nurse Nurse-3 Patient (1999-06-22) arrived: 08:15:00  Sampled: 08:17:26 
+Nurse Nurse-1 Patient (1982-06-26) arrived: 08:15:10  Sampled: 08:17:51 
+Nurse Nurse-4 Patient (1935-03-14) arrived: 08:15:39  Sampled: 08:18:00 
+Nurse Nurse-2 Patient (1939-04-24) arrived: 08:16:00  Sampled: 08:18:14 
+Nurse Nurse-3 Patient (1974-03-15) arrived: 08:17:49  Sampled: 08:18:33 
+Nurse Nurse-4 Patient (1946-01-26) arrived: 08:17:57  Sampled: 08:19:21 
+Nurse Nurse-2 Patient (1932-08-25) arrived: 08:18:21  Sampled: 08:19:33 
+Nurse Nurse-3 Patient (1995-01-28) arrived: 08:19:00  Sampled: 08:20:06 <===
+Nurse Nurse-1 Patient (1946-07-07) arrived: 08:19:13  Sampled: 08:20:11 
+Nurse Nurse-4 Patient (1934-06-10) arrived: 08:19:18  Sampled: 08:20:29 
+Nurse Nurse-2 Patient (1974-11-22) arrived: 08:19:24  Sampled: 08:20:50 <===
+Nurse Nurse-3 Patient (1964-02-28) arrived: 08:19:45  Sampled: 08:21:33 
+Nurse Nurse-1 Patient (1966-06-27) arrived: 08:20:00  Sampled: 08:21:40 <===
+Nurse Nurse-4 Patient (1963-11-11) arrived: 08:20:04  Sampled: 08:23:01 
+Nurse Nurse-1 Patient (1989-09-11) arrived: 08:20:43  Sampled: 08:23:06 
+Nurse Nurse-2 Patient (1988-02-19) arrived: 08:21:45  Sampled: 08:23:18 
+Nurse Nurse-3 Patient (1952-06-08) arrived: 08:22:02  Sampled: 08:23:23 
+Nurse Nurse-1 Patient (1962-04-08) arrived: 08:23:09  Sampled: 08:24:11 
+Nurse Nurse-3 Patient (1928-12-06) arrived: 08:23:41  Sampled: 08:25:19 
+Nurse Nurse-4 Patient (1962-12-17) arrived: 08:23:45  Sampled: 08:25:34 
+Nurse Nurse-2 Patient (2000-02-07) arrived: 08:26:17  Sampled: 08:26:17 
+Nurse Nurse-1 Patient (1934-04-20) arrived: 08:27:10  Sampled: 08:27:10 
+Nurse Nurse-4 Patient (1933-07-02) arrived: 08:27:20  Sampled: 08:27:20 <===
+Nurse Nurse-3 Patient (1951-05-10) arrived: 08:27:20  Sampled: 08:27:46 
+Nurse Nurse-2 Patient (1993-09-18) arrived: 08:27:44  Sampled: 08:28:36 
+Nurse Nurse-1 Patient (1969-03-02) arrived: 08:27:58  Sampled: 08:29:15 
+Nurse Nurse-4 Patient (1960-06-22) arrived: 08:28:10  Sampled: 08:29:43 
+Nurse Nurse-3 Patient (1986-07-21) arrived: 08:29:45  Sampled: 08:29:50 
+Nurse Nurse-2 Patient (1930-04-17) arrived: 08:30:08  Sampled: 08:30:32 
+Nurse Nurse-3 Patient (1935-02-09) arrived: 08:30:25  Sampled: 08:31:14 
+Nurse Nurse-4 Patient (1983-10-02) arrived: 08:31:36  Sampled: 08:31:36 
+Nurse Nurse-2 Patient (1931-04-20) arrived: 08:31:57  Sampled: 08:31:57 
+Nurse Nurse-1 Patient (1994-07-03) arrived: 08:32:26  Sampled: 08:32:26 
+Nurse Nurse-3 Patient (1979-01-19) arrived: 08:32:40  Sampled: 08:32:56 
+Nurse Nurse-2 Patient (1975-05-11) arrived: 08:33:12  Sampled: 08:33:36 
+Nurse Nurse-4 Patient (1937-07-01) arrived: 08:33:21  Sampled: 08:33:52 
+Nurse Nurse-3 Patient (1974-06-04) arrived: 08:35:01  Sampled: 08:35:01 <===
+Nurse Nurse-1 Patient (1961-05-06) arrived: 08:35:12  Sampled: 08:35:12 
+Nurse Nurse-4 Patient (1994-10-01) arrived: 08:35:24  Sampled: 08:35:24 <===
+Nurse Nurse-2 Patient (1935-04-16) arrived: 08:35:28  Sampled: 08:35:28 
+Nurse Nurse-3 Patient (1939-04-03) arrived: 08:35:47  Sampled: 08:36:07 
+Nurse Nurse-4 Patient (1950-10-12) arrived: 08:35:49  Sampled: 08:36:30 
+Nurse Nurse-2 Patient (1989-02-26) arrived: 08:36:00  Sampled: 08:36:34 
+Nurse Nurse-1 Patient (1975-10-24) arrived: 08:37:07  Sampled: 08:37:10 
+Nurse Nurse-2 Patient (1969-05-23) arrived: 08:37:17  Sampled: 08:38:03 <===
+Nurse Nurse-3 Patient (1991-04-14) arrived: 08:37:23  Sampled: 08:38:08 
+Nurse Nurse-4 Patient (1930-03-11) arrived: 08:37:55  Sampled: 08:38:15 
+Nurse Nurse-3 Patient (1940-08-08) arrived: 08:38:02  Sampled: 08:39:24 
+Nurse Nurse-2 Patient (1973-10-02) arrived: 08:38:03  Sampled: 08:39:35 
+Nurse Nurse-1 Patient (1938-07-06) arrived: 08:38:12  Sampled: 08:39:44 
+Nurse Nurse-4 Patient (1928-10-16) arrived: 08:38:25  Sampled: 08:40:19 
+Nurse Nurse-3 Patient (1968-10-23) arrived: 08:38:48  Sampled: 08:40:53 
+Nurse Nurse-2 Patient (1941-04-22) arrived: 08:39:36  Sampled: 08:41:41 
+Nurse Nurse-1 Patient (1932-03-15) arrived: 08:40:13  Sampled: 08:41:50 
+Nurse Nurse-3 Patient (1997-02-23) arrived: 08:40:15  Sampled: 08:41:55 
+Nurse Nurse-4 Patient (1939-04-16) arrived: 08:40:27  Sampled: 08:42:55 
+Nurse Nurse-2 Patient (1999-12-04) arrived: 08:40:37  Sampled: 08:43:32 
+Nurse Nurse-1 Patient (1951-12-02) arrived: 08:41:09  Sampled: 08:43:52 
+Nurse Nurse-3 Patient (1989-03-07) arrived: 08:44:20  Sampled: 08:44:20 
+Nurse Nurse-4 Patient (1961-10-13) arrived: 08:44:53  Sampled: 08:44:53 <===
+Nurse Nurse-1 Patient (1977-09-12) arrived: 08:45:11  Sampled: 08:46:01 
+Nurse Nurse-2 Patient (1952-03-16) arrived: 08:45:12  Sampled: 08:46:07 <===
+Nurse Nurse-3 Patient (1993-12-21) arrived: 08:45:26  Sampled: 08:46:25 
+Nurse Nurse-4 Patient (1964-01-01) arrived: 08:47:36  Sampled: 08:47:36 
+Nurse Nurse-3 Patient (1964-01-12) arrived: 08:47:36  Sampled: 08:47:36 
+Nurse Nurse-1 Patient (1958-09-19) arrived: 08:47:42  Sampled: 08:47:45 
+Nurse Nurse-2 Patient (1970-07-08) arrived: 08:48:04  Sampled: 08:48:30 
+Nurse Nurse-3 Patient (1979-10-01) arrived: 08:48:40  Sampled: 08:49:25 
+Nurse Nurse-1 Patient (1987-06-06) arrived: 08:49:10  Sampled: 08:49:29 
+Nurse Nurse-2 Patient (1962-08-20) arrived: 08:49:36  Sampled: 08:49:50 
+Nurse Nurse-4 Patient (2002-11-11) arrived: 08:49:44  Sampled: 08:50:08 
+Nurse Nurse-2 Patient (1981-07-05) arrived: 08:50:04  Sampled: 08:51:22 <===
+Nurse Nurse-3 Patient (1963-06-05) arrived: 08:50:13  Sampled: 08:51:37 
+Nurse Nurse-1 Patient (1988-12-06) arrived: 08:50:35  Sampled: 08:51:54 <===
+Nurse Nurse-4 Patient (1991-07-27) arrived: 08:51:19  Sampled: 08:52:20 
+Nurse Nurse-2 Patient (1986-02-25) arrived: 08:52:12  Sampled: 08:52:40 
+Nurse Nurse-1 Patient (1927-04-28) arrived: 08:52:22  Sampled: 08:53:06 <===
+Nurse Nurse-3 Patient (1992-05-28) arrived: 08:53:10  Sampled: 08:53:20 <===
+Nurse Nurse-4 Patient (1973-11-11) arrived: 08:53:46  Sampled: 08:54:00 <===
+Nurse Nurse-2 Patient (1943-10-09) arrived: 08:54:51  Sampled: 08:54:51 
+Nurse Nurse-3 Patient (1975-06-03) arrived: 08:55:24  Sampled: 08:55:24 <===
+Nurse Nurse-1 Patient (1947-09-12) arrived: 08:55:52  Sampled: 08:55:52 
+Nurse Nurse-4 Patient (1968-02-26) arrived: 08:56:06  Sampled: 08:56:06 <===
+Nurse Nurse-2 Patient (1962-05-13) arrived: 08:56:21  Sampled: 08:56:43 
+Nurse Nurse-3 Patient (1962-04-05) arrived: 08:57:24  Sampled: 08:57:27 <===
+Nurse Nurse-1 Patient (1930-09-09) arrived: 08:57:42  Sampled: 08:57:42 
+Nurse Nurse-4 Patient (2003-02-12) arrived: 08:58:08  Sampled: 08:58:08 
+Nurse Nurse-3 Patient (1989-03-28) arrived: 08:58:10  Sampled: 08:58:29 
+Nurse Nurse-1 Patient (1980-05-21) arrived: 08:58:39  Sampled: 08:58:47 
+Nurse Nurse-2 Patient (1930-12-16) arrived: 08:59:27  Sampled: 08:59:27 
+Nurse Nurse-4 Patient (1966-06-24) arrived: 09:00:41  Sampled: 09:00:41 
+Nurse Nurse-3 Patient (1974-03-15) arrived: 09:01:10  Sampled: 09:01:10 
+Nurse Nurse-1 Patient (2002-10-21) arrived: 09:01:27  Sampled: 09:01:27 
+Nurse Nurse-2 Patient (1981-03-19) arrived: 09:01:31  Sampled: 09:01:31 <===
+Nurse Nurse-1 Patient (1951-03-15) arrived: 09:01:41  Sampled: 09:02:35 
+Nurse Nurse-3 Patient (1952-07-23) arrived: 09:01:54  Sampled: 09:02:58 <===
+Nurse Nurse-4 Patient (1943-11-26) arrived: 09:02:20  Sampled: 09:03:15 
+Nurse Nurse-2 Patient (1987-09-01) arrived: 09:04:00  Sampled: 09:04:00 
+Nurse Nurse-1 Patient (1958-03-23) arrived: 09:04:08  Sampled: 09:04:36 
+Nurse Nurse-3 Patient (1984-07-07) arrived: 09:04:18  Sampled: 09:05:32 
+Nurse Nurse-4 Patient (1989-06-19) arrived: 09:06:11  Sampled: 09:06:11 
+Nurse Nurse-1 Patient (2003-05-26) arrived: 09:06:12  Sampled: 09:06:30 
+Nurse Nurse-2 Patient (1964-10-18) arrived: 09:07:19  Sampled: 09:07:19 
+Nurse Nurse-3 Patient (2001-12-24) arrived: 09:08:15  Sampled: 09:08:15 
+Nurse Nurse-1 Patient (2003-05-20) arrived: 09:08:30  Sampled: 09:08:38 
+Nurse Nurse-4 Patient (1975-11-18) arrived: 09:08:38  Sampled: 09:08:48 
+Nurse Nurse-2 Patient (1979-01-03) arrived: 09:09:03  Sampled: 09:09:18 
+Nurse Nurse-3 Patient (1971-12-14) arrived: 09:09:27  Sampled: 09:09:30 
+Nurse Nurse-4 Patient (1928-01-07) arrived: 09:09:31  Sampled: 09:10:08 
+Nurse Nurse-3 Patient (2005-10-15) arrived: 09:09:36  Sampled: 09:11:02 
+Nurse Nurse-1 Patient (1990-05-23) arrived: 09:09:41  Sampled: 09:11:09 
+Nurse Nurse-2 Patient (1930-01-22) arrived: 09:11:02  Sampled: 09:11:57 
+Nurse Nurse-4 Patient (1983-02-23) arrived: 09:11:27  Sampled: 09:12:42 
+Nurse Nurse-3 Patient (1982-06-14) arrived: 09:11:37  Sampled: 09:12:48 
+Nurse Nurse-1 Patient (1944-02-04) arrived: 09:12:27  Sampled: 09:13:26 <===
+Nurse Nurse-2 Patient (1933-11-02) arrived: 09:12:38  Sampled: 09:14:02 
+Nurse Nurse-4 Patient (1997-11-10) arrived: 09:12:49  Sampled: 09:14:30 
+Nurse Nurse-3 Patient (1970-06-26) arrived: 09:13:04  Sampled: 09:14:33 <===
+Nurse Nurse-2 Patient (1987-08-02) arrived: 09:13:21  Sampled: 09:15:02 
+Nurse Nurse-1 Patient (1983-06-15) arrived: 09:14:05  Sampled: 09:15:15 
+Nurse Nurse-4 Patient (1986-09-27) arrived: 09:14:17  Sampled: 09:16:02 <===
+Nurse Nurse-3 Patient (1985-04-17) arrived: 09:14:38  Sampled: 09:16:21 
+Nurse Nurse-2 Patient (1928-07-04) arrived: 09:14:56  Sampled: 09:16:23 <===
+Nurse Nurse-1 Patient (1970-03-06) arrived: 09:15:27  Sampled: 09:16:44 
+Nurse Nurse-4 Patient (1971-09-26) arrived: 09:16:02  Sampled: 09:17:06 
+Nurse Nurse-3 Patient (1990-02-19) arrived: 09:16:08  Sampled: 09:17:47 
+Nurse Nurse-4 Patient (1991-03-27) arrived: 09:16:36  Sampled: 09:18:23 
+Nurse Nurse-1 Patient (1969-03-20) arrived: 09:16:39  Sampled: 09:18:27 
+Nurse Nurse-2 Patient (1957-09-18) arrived: 09:16:47  Sampled: 09:18:40 
+Nurse Nurse-3 Patient (1958-12-02) arrived: 09:17:28  Sampled: 09:19:37 
+Nurse Nurse-2 Patient (1979-01-05) arrived: 09:17:42  Sampled: 09:19:46 
+Nurse Nurse-1 Patient (1954-10-10) arrived: 09:17:48  Sampled: 09:20:06 
+Nurse Nurse-4 Patient (1979-04-10) arrived: 09:18:52  Sampled: 09:20:24 
+Nurse Nurse-3 Patient (2002-02-23) arrived: 09:19:17  Sampled: 09:21:27 
+Nurse Nurse-2 Patient (1932-08-23) arrived: 09:19:26  Sampled: 09:21:31 <===
+Nurse Nurse-1 Patient (1986-03-19) arrived: 09:21:12  Sampled: 09:22:42 
+Nurse Nurse-3 Patient (1959-02-25) arrived: 09:21:40  Sampled: 09:22:46 
+Nurse Nurse-4 Patient (1940-11-10) arrived: 09:21:44  Sampled: 09:23:03 <===
+Nurse Nurse-2 Patient (1954-07-07) arrived: 09:22:05  Sampled: 09:23:46 
+Nurse Nurse-4 Patient (1955-06-14) arrived: 09:22:35  Sampled: 09:24:28 <===
+Nurse Nurse-3 Patient (1944-04-09) arrived: 09:22:51  Sampled: 09:25:03 
+Nurse Nurse-1 Patient (1940-01-27) arrived: 09:22:55  Sampled: 09:25:08 
+Nurse Nurse-2 Patient (1995-10-05) arrived: 09:24:04  Sampled: 09:25:42 <===
+Nurse Nurse-4 Patient (1983-04-11) arrived: 09:26:08  Sampled: 09:26:08 
+Nurse Nurse-3 Patient (1953-08-08) arrived: 09:26:47  Sampled: 09:26:54 
+Nurse Nurse-2 Patient (1998-12-01) arrived: 09:26:57  Sampled: 09:27:39 <===
+Nurse Nurse-1 Patient (1950-06-23) arrived: 09:27:06  Sampled: 09:27:45 
+Nurse Nurse-4 Patient (1961-02-16) arrived: 09:27:23  Sampled: 09:28:27 <===
+Nurse Nurse-1 Patient (1934-11-15) arrived: 09:28:04  Sampled: 09:28:46 
+Nurse Nurse-3 Patient (1934-12-15) arrived: 09:28:05  Sampled: 09:29:05 
+Nurse Nurse-4 Patient (1973-02-21) arrived: 09:28:30  Sampled: 09:29:47 
+Nurse Nurse-1 Patient (1928-10-02) arrived: 09:28:40  Sampled: 09:29:49 
+Nurse Nurse-2 Patient (1929-04-03) arrived: 09:29:05  Sampled: 09:29:56 
+Nurse Nurse-3 Patient (1998-07-27) arrived: 09:29:39  Sampled: 09:30:09 
+Nurse Nurse-4 Patient (1933-07-09) arrived: 09:30:04  Sampled: 09:31:23 
+Nurse Nurse-2 Patient (1971-11-13) arrived: 09:30:13  Sampled: 09:31:43 
+Nurse Nurse-3 Patient (1977-10-08) arrived: 09:30:37  Sampled: 09:31:52 
+Nurse Nurse-1 Patient (1966-12-04) arrived: 09:31:15  Sampled: 09:31:57 <===
+Nurse Nurse-2 Patient (1954-06-04) arrived: 09:31:54  Sampled: 09:32:46 
+Nurse Nurse-4 Patient (1939-05-05) arrived: 09:31:57  Sampled: 09:33:48 
+Nurse Nurse-1 Patient (1966-04-17) arrived: 09:32:06  Sampled: 09:34:13 
+Nurse Nurse-3 Patient (1985-09-21) arrived: 09:32:09  Sampled: 09:34:31 
+Nurse Nurse-2 Patient (2000-05-10) arrived: 09:32:21  Sampled: 09:34:55 
+Nurse Nurse-1 Patient (1940-05-16) arrived: 09:33:39  Sampled: 09:35:47 <===
+Nurse Nurse-4 Patient (1970-07-17) arrived: 09:35:02  Sampled: 09:35:48 
+Nurse Nurse-3 Patient (1925-10-15) arrived: 09:35:28  Sampled: 09:36:12 
+Nurse Nurse-2 Patient (1996-02-28) arrived: 09:35:31  Sampled: 09:36:18 
+Nurse Nurse-1 Patient (1982-01-25) arrived: 09:36:34  Sampled: 09:36:50 
+Nurse Nurse-4 Patient (1987-05-22) arrived: 09:37:14  Sampled: 09:37:14 
+Nurse Nurse-2 Patient (1949-02-06) arrived: 09:37:58  Sampled: 09:37:58 
+Nurse Nurse-3 Patient (1974-01-06) arrived: 09:39:29  Sampled: 09:39:29 
+Nurse Nurse-1 Patient (1995-04-25) arrived: 09:39:45  Sampled: 09:39:45 
+Nurse Nurse-4 Patient (1949-11-03) arrived: 09:40:00  Sampled: 09:40:00 
+Nurse Nurse-2 Patient (1953-10-19) arrived: 09:40:16  Sampled: 09:40:18 
+Nurse Nurse-3 Patient (1953-09-20) arrived: 09:40:58  Sampled: 09:41:04 
+Nurse Nurse-4 Patient (2005-10-27) arrived: 09:41:14  Sampled: 09:41:14 <===
+Nurse Nurse-1 Patient (1930-06-03) arrived: 09:41:59  Sampled: 09:41:59 
+Nurse Nurse-4 Patient (1986-06-08) arrived: 09:42:05  Sampled: 09:42:19 
+Nurse Nurse-2 Patient (1939-01-18) arrived: 09:42:12  Sampled: 09:42:26 
+Nurse Nurse-3 Patient (1967-01-10) arrived: 09:42:17  Sampled: 09:43:06 
+Nurse Nurse-1 Patient (1995-12-19) arrived: 09:42:57  Sampled: 09:43:36 
+Nurse Nurse-2 Patient (2005-10-20) arrived: 09:42:58  Sampled: 09:44:17 
+Nurse Nurse-4 Patient (1960-06-12) arrived: 09:43:50  Sampled: 09:44:20 
+Nurse Nurse-3 Patient (1986-05-19) arrived: 09:44:35  Sampled: 09:44:58 
+Nurse Nurse-1 Patient (1994-03-05) arrived: 09:45:15  Sampled: 09:45:24 
+Nurse Nurse-4 Patient (1999-08-03) arrived: 09:47:12  Sampled: 09:47:12 
+Nurse Nurse-2 Patient (1963-03-15) arrived: 09:47:16  Sampled: 09:47:16 
+Nurse Nurse-3 Patient (1976-11-26) arrived: 09:48:14  Sampled: 09:48:14 <===
+Nurse Nurse-1 Patient (1978-02-06) arrived: 09:48:33  Sampled: 09:48:33 
+Nurse Nurse-2 Patient (1987-04-17) arrived: 09:49:26  Sampled: 09:49:26 
+Nurse Nurse-4 Patient (1933-12-07) arrived: 09:49:41  Sampled: 09:49:41 
+Nurse Nurse-1 Patient (1953-08-26) arrived: 09:50:39  Sampled: 09:50:39 
+Nurse Nurse-3 Patient (1968-06-19) arrived: 09:50:54  Sampled: 09:50:54 
+Nurse Nurse-2 Patient (1932-03-25) arrived: 09:51:42  Sampled: 09:51:42 
+Nurse Nurse-4 Patient (1950-03-01) arrived: 09:52:07  Sampled: 09:52:07 <===
+Nurse Nurse-1 Patient (1927-02-24) arrived: 09:52:36  Sampled: 09:52:36 
+Nurse Nurse-3 Patient (1940-07-02) arrived: 09:53:22  Sampled: 09:53:22 
+Nurse Nurse-4 Patient (1959-04-05) arrived: 09:53:28  Sampled: 09:53:29 
+Nurse Nurse-1 Patient (1943-05-25) arrived: 09:53:35  Sampled: 09:53:42 
+Nurse Nurse-2 Patient (1958-03-18) arrived: 09:53:46  Sampled: 09:53:47 
+Nurse Nurse-3 Patient (1954-06-12) arrived: 09:54:01  Sampled: 09:54:34 
+Nurse Nurse-4 Patient (1943-07-26) arrived: 09:54:02  Sampled: 09:55:07 <===
+Nurse Nurse-2 Patient (1953-12-27) arrived: 09:56:08  Sampled: 09:56:08 <===
+Nurse Nurse-1 Patient (1941-07-15) arrived: 09:56:24  Sampled: 09:56:24 
+Nurse Nurse-4 Patient (1957-11-13) arrived: 09:57:04  Sampled: 09:57:04 <===
+Nurse Nurse-3 Patient (1942-08-23) arrived: 09:57:09  Sampled: 09:57:09 
+Nurse Nurse-2 Patient (1926-04-16) arrived: 09:57:31  Sampled: 09:58:06 
+Nurse Nurse-1 Patient (1931-12-10) arrived: 09:57:34  Sampled: 09:58:20 
+Nurse Nurse-4 Patient (2000-01-25) arrived: 09:57:36  Sampled: 09:58:32 
+Nurse Nurse-3 Patient (1926-01-25) arrived: 09:57:39  Sampled: 09:58:52 
+Nurse Nurse-2 Patient (1936-07-16) arrived: 09:57:59  Sampled: 09:59:07 
+Nurse Nurse-4 Patient (1997-05-21) arrived: 09:59:11  Sampled: 09:59:58 
+Nurse Nurse-3 Patient (1968-01-15) arrived: 09:59:12  Sampled: 10:00:06 
+Nurse Nurse-1 Patient (1958-01-13) arrived: 09:59:20  Sampled: 10:00:44 
+Nurse Nurse-2 Patient (1950-08-24) arrived: 09:59:37  Sampled: 10:00:59 <===
+Nurse Nurse-4 Patient (1932-10-14) arrived: 10:00:32  Sampled: 10:02:12 
+Nurse Nurse-2 Patient (1963-01-05) arrived: 10:00:34  Sampled: 10:02:19 
+Nurse Nurse-3 Patient (1938-10-24) arrived: 10:01:07  Sampled: 10:02:32 
+Nurse Nurse-1 Patient (1953-07-28) arrived: 10:01:46  Sampled: 10:03:15 
+Nurse Nurse-4 Patient (2004-09-18) arrived: 10:01:52  Sampled: 10:03:54 
+Nurse Nurse-2 Patient (1930-12-02) arrived: 10:02:08  Sampled: 10:03:59 
+Nurse Nurse-3 Patient (1993-12-03) arrived: 10:03:39  Sampled: 10:04:53 
+Nurse Nurse-1 Patient (1932-06-13) arrived: 10:04:22  Sampled: 10:04:56 
+Nurse Nurse-2 Patient (1961-08-14) arrived: 10:04:50  Sampled: 10:05:11 
+Nurse Nurse-3 Patient (1973-06-10) arrived: 10:04:58  Sampled: 10:06:12 
+Nurse Nurse-4 Patient (1954-03-25) arrived: 10:05:06  Sampled: 10:06:22 
+Nurse Nurse-1 Patient (1936-07-04) arrived: 10:06:14  Sampled: 10:07:08 
+Nurse Nurse-2 Patient (1940-09-19) arrived: 10:08:11  Sampled: 10:08:11 
+Nurse Nurse-3 Patient (1925-03-11) arrived: 10:08:58  Sampled: 10:08:58 
+Nurse Nurse-4 Patient (1949-03-24) arrived: 10:10:28  Sampled: 10:10:28 
+Nurse Nurse-1 Patient (1949-06-14) arrived: 10:10:38  Sampled: 10:10:38 
+Nurse Nurse-2 Patient (2000-05-05) arrived: 10:10:55  Sampled: 10:10:55 
+Nurse Nurse-3 Patient (1975-05-28) arrived: 10:11:09  Sampled: 10:11:12 
+Nurse Nurse-4 Patient (1940-08-27) arrived: 10:12:51  Sampled: 10:12:51 
+Nurse Nurse-1 Patient (1974-11-05) arrived: 10:12:53  Sampled: 10:12:53 <===
+Nurse Nurse-2 Patient (1983-04-12) arrived: 10:13:21  Sampled: 10:13:21 
+Nurse Nurse-3 Patient (1958-06-25) arrived: 10:13:28  Sampled: 10:13:28 <===
+Nurse Nurse-1 Patient (1959-05-08) arrived: 10:14:54  Sampled: 10:14:54 
+Nurse Nurse-4 Patient (1985-03-28) arrived: 10:14:55  Sampled: 10:14:55 <===
+Nurse Nurse-2 Patient (1950-02-15) arrived: 10:14:58  Sampled: 10:14:58 
+Nurse Nurse-3 Patient (1947-07-01) arrived: 10:15:02  Sampled: 10:15:13 
+Nurse Nurse-1 Patient (1977-05-25) arrived: 10:16:11  Sampled: 10:16:44 <===
+Nurse Nurse-3 Patient (1974-09-01) arrived: 10:16:24  Sampled: 10:16:44 
+Nurse Nurse-2 Patient (1936-08-22) arrived: 10:17:20  Sampled: 10:17:20 
+Nurse Nurse-4 Patient (1971-09-11) arrived: 10:17:40  Sampled: 10:17:40 
+Nurse Nurse-3 Patient (1941-07-21) arrived: 10:17:47  Sampled: 10:18:27 <===
+Nurse Nurse-1 Patient (1934-12-27) arrived: 10:18:25  Sampled: 10:18:46 <===
+Nurse Nurse-4 Patient (1993-12-03) arrived: 10:18:49  Sampled: 10:19:10 
+Nurse Nurse-2 Patient (1965-10-07) arrived: 10:19:00  Sampled: 10:19:39 
+Nurse Nurse-3 Patient (1971-05-16) arrived: 10:19:20  Sampled: 10:19:56 
+Nurse Nurse-2 Patient (1934-07-14) arrived: 10:19:24  Sampled: 10:20:46 
+Nurse Nurse-3 Patient (1927-06-12) arrived: 10:19:27  Sampled: 10:21:13 
+Nurse Nurse-1 Patient (1931-01-22) arrived: 10:19:34  Sampled: 10:21:14 
+Nurse Nurse-4 Patient (1972-05-20) arrived: 10:19:50  Sampled: 10:21:32 
+Nurse Nurse-1 Patient (1966-07-11) arrived: 10:20:54  Sampled: 10:22:25 
+Nurse Nurse-4 Patient (1952-04-17) arrived: 10:21:00  Sampled: 10:22:35 <===
+Nurse Nurse-2 Patient (1987-10-25) arrived: 10:22:35  Sampled: 10:23:04 
+Nurse Nurse-3 Patient (1967-10-21) arrived: 10:23:26  Sampled: 10:23:26 
+Nurse Nurse-4 Patient (1969-09-03) arrived: 10:24:06  Sampled: 10:24:06 
+Nurse Nurse-1 Patient (1974-03-04) arrived: 10:24:21  Sampled: 10:24:28 
+Nurse Nurse-2 Patient (1962-03-13) arrived: 10:25:31  Sampled: 10:25:31 
+Nurse Nurse-3 Patient (1986-09-11) arrived: 10:26:21  Sampled: 10:26:21 
+Nurse Nurse-4 Patient (1997-01-14) arrived: 10:28:33  Sampled: 10:28:33 
+Nurse Nurse-1 Patient (1990-12-08) arrived: 10:29:25  Sampled: 10:29:25 
+Nurse Nurse-3 Patient (1970-12-24) arrived: 10:30:08  Sampled: 10:30:08 
+Nurse Nurse-2 Patient (1931-07-01) arrived: 10:30:27  Sampled: 10:30:27 
+Nurse Nurse-4 Patient (1981-03-23) arrived: 10:31:04  Sampled: 10:31:04 <===
+Nurse Nurse-2 Patient (1929-05-17) arrived: 10:32:13  Sampled: 10:32:13 
+Nurse Nurse-1 Patient (1946-04-15) arrived: 10:32:20  Sampled: 10:32:20 
+Nurse Nurse-3 Patient (1979-05-15) arrived: 10:33:07  Sampled: 10:33:07 
+Nurse Nurse-4 Patient (1946-05-10) arrived: 10:33:10  Sampled: 10:33:21 <===
+Nurse Nurse-1 Patient (1982-06-09) arrived: 10:33:27  Sampled: 10:33:56 <===
+Nurse Nurse-3 Patient (1993-12-24) arrived: 10:33:58  Sampled: 10:34:23 
+Nurse Nurse-4 Patient (1944-01-20) arrived: 10:34:54  Sampled: 10:34:54 
+Nurse Nurse-2 Patient (1928-09-26) arrived: 10:34:59  Sampled: 10:34:59 
+Nurse Nurse-1 Patient (1951-09-05) arrived: 10:35:31  Sampled: 10:35:53 <===
+Nurse Nurse-4 Patient (1947-10-17) arrived: 10:35:45  Sampled: 10:36:03 
+Nurse Nurse-3 Patient (1949-08-19) arrived: 10:36:13  Sampled: 10:36:53 
+Nurse Nurse-2 Patient (1977-04-08) arrived: 10:36:27  Sampled: 10:36:59 
+Nurse Nurse-1 Patient (1989-08-08) arrived: 10:36:34  Sampled: 10:36:59 
+Nurse Nurse-4 Patient (1973-04-21) arrived: 10:36:54  Sampled: 10:37:14 
+Nurse Nurse-2 Patient (1960-08-14) arrived: 10:37:25  Sampled: 10:38:21 
+Nurse Nurse-3 Patient (1984-02-02) arrived: 10:37:32  Sampled: 10:38:22 
+Nurse Nurse-1 Patient (1965-02-26) arrived: 10:37:37  Sampled: 10:38:25 
+Nurse Nurse-4 Patient (1989-04-02) arrived: 10:37:47  Sampled: 10:39:12 
+Nurse Nurse-1 Patient (1945-01-23) arrived: 10:38:46  Sampled: 10:39:37 
+Nurse Nurse-3 Patient (1944-08-01) arrived: 10:38:46  Sampled: 10:39:52 
+Nurse Nurse-4 Patient (1944-02-25) arrived: 10:39:47  Sampled: 10:40:27 
+Nurse Nurse-2 Patient (2004-10-08) arrived: 10:42:30  Sampled: 10:42:30 
+Nurse Nurse-3 Patient (1976-12-28) arrived: 10:43:51  Sampled: 10:43:51 
+Nurse Nurse-1 Patient (1989-12-20) arrived: 10:47:38  Sampled: 10:47:38 <===
+Nurse Nurse-4 Patient (1955-10-06) arrived: 10:48:18  Sampled: 10:48:18 <===
+Nurse Nurse-2 Patient (1968-08-01) arrived: 10:48:52  Sampled: 10:48:52 <===
+Nurse Nurse-3 Patient (1986-04-13) arrived: 10:52:48  Sampled: 10:52:48 <===
+Nurse Nurse-1 Patient (1939-11-09) arrived: 10:53:17  Sampled: 10:53:17 
+Nurse Nurse-4 Patient (1931-05-14) arrived: 10:53:26  Sampled: 10:53:26 
+Nurse Nurse-2 Patient (1952-11-20) arrived: 10:54:25  Sampled: 10:54:25 
+Nurse Nurse-3 Patient (1964-10-10) arrived: 10:55:00  Sampled: 10:55:00 
+Nurse Nurse-4 Patient (1994-08-28) arrived: 10:56:12  Sampled: 10:56:12 
+Nurse Nurse-1 Patient (1996-11-11) arrived: 10:57:35  Sampled: 10:57:35 
+Nurse Nurse-2 Patient (1958-06-27) arrived: 10:58:22  Sampled: 10:58:22 
+Nurse Nurse-4 Patient (1969-02-28) arrived: 10:58:54  Sampled: 10:58:54 
+Nurse Nurse-3 Patient (1976-05-06) arrived: 11:01:52  Sampled: 11:01:52 
+Nurse Nurse-1 Patient (1983-05-19) arrived: 11:03:49  Sampled: 11:03:49 
+Nurse Nurse-2 Patient (1994-05-20) arrived: 11:04:26  Sampled: 11:04:26 
+Nurse Nurse-4 Patient (1979-09-03) arrived: 11:06:20  Sampled: 11:06:20 
+Nurse Nurse-3 Patient (1995-11-28) arrived: 11:07:36  Sampled: 11:07:36 
+Nurse Nurse-2 Patient (1946-12-01) arrived: 11:07:48  Sampled: 11:07:48 
+Nurse Nurse-1 Patient (1963-03-03) arrived: 11:08:28  Sampled: 11:08:28 
+Nurse Nurse-4 Patient (1958-02-22) arrived: 11:08:34  Sampled: 11:08:34 <===
+Nurse Nurse-3 Patient (1963-02-05) arrived: 11:09:04  Sampled: 11:09:04 <===
+Nurse Nurse-2 Patient (1990-07-08) arrived: 11:09:38  Sampled: 11:09:38 
+Nurse Nurse-1 Patient (1973-12-12) arrived: 11:11:29  Sampled: 11:11:29 
+Nurse Nurse-4 Patient (1946-08-09) arrived: 11:11:53  Sampled: 11:11:53 
+Nurse Nurse-3 Patient (1996-04-13) arrived: 11:12:43  Sampled: 11:12:43 
+Nurse Nurse-2 Patient (1968-03-03) arrived: 11:14:11  Sampled: 11:14:11 
+Nurse Nurse-1 Patient (1950-11-04) arrived: 11:17:16  Sampled: 11:17:16 
+Nurse Nurse-3 Patient (1999-04-27) arrived: 11:17:36  Sampled: 11:17:36 
+Nurse Nurse-4 Patient (1931-10-24) arrived: 11:18:36  Sampled: 11:18:36 
+Nurse Nurse-2 Patient (1947-06-13) arrived: 11:19:31  Sampled: 11:19:31 
+Nurse Nurse-1 Patient (1931-12-28) arrived: 11:23:26  Sampled: 11:23:26 
+Nurse Nurse-3 Patient (1976-05-13) arrived: 11:26:03  Sampled: 11:26:03 
+Nurse Nurse-4 Patient (1948-12-24) arrived: 11:26:32  Sampled: 11:26:32 
+Nurse Nurse-2 Patient (1955-08-22) arrived: 11:27:53  Sampled: 11:27:53 
+Nurse Nurse-1 Patient (1998-07-03) arrived: 11:28:01  Sampled: 11:28:01 
+Nurse Nurse-3 Patient (1995-08-21) arrived: 11:30:18  Sampled: 11:30:18 <===
+Nurse Nurse-4 Patient (1944-06-27) arrived: 11:32:44  Sampled: 11:32:44 
+Nurse Nurse-2 Patient (1941-04-21) arrived: 11:34:24  Sampled: 11:34:24 
+Nurse Nurse-1 Patient (1970-11-26) arrived: 11:35:39  Sampled: 11:35:39 
+Nurse Nurse-3 Patient (2004-10-05) arrived: 11:38:25  Sampled: 11:38:25 
+Nurse Nurse-4 Patient (1954-11-25) arrived: 11:38:53  Sampled: 11:38:53 
+Nurse Nurse-2 Patient (1975-04-23) arrived: 11:42:28  Sampled: 11:42:28 
+Nurse Nurse-1 Patient (1993-11-18) arrived: 11:42:43  Sampled: 11:42:43 
+Nurse Nurse-3 Patient (1951-04-27) arrived: 11:43:28  Sampled: 11:43:28 
+Nurse Nurse-4 Patient (1978-09-28) arrived: 11:43:37  Sampled: 11:43:37 
+Nurse Nurse-2 Patient (1942-07-23) arrived: 11:45:22  Sampled: 11:45:22 
+Nurse Nurse-4 Patient (1956-07-27) arrived: 11:46:00  Sampled: 11:46:00 
+Nurse Nurse-1 Patient (1936-03-18) arrived: 11:50:06  Sampled: 11:50:06 
+Nurse Nurse-3 Patient (1962-11-17) arrived: 11:50:39  Sampled: 11:50:39 
+Nurse Nurse-2 Patient (1935-09-02) arrived: 11:51:50  Sampled: 11:51:50 
+Nurse Nurse-4 Patient (1938-12-14) arrived: 11:51:52  Sampled: 11:51:52 
+Nurse Nurse-3 Patient (1940-03-25) arrived: 11:52:04  Sampled: 11:52:12 
+Nurse Nurse-1 Patient (1965-01-04) arrived: 11:52:07  Sampled: 11:52:31 
+Nurse Nurse-4 Patient (1991-01-26) arrived: 11:53:02  Sampled: 11:53:38 
+Nurse Nurse-3 Patient (1932-11-25) arrived: 11:53:32  Sampled: 11:53:47 
+Nurse Nurse-2 Patient (1970-12-03) arrived: 11:53:40  Sampled: 11:54:15 
+Nurse Nurse-1 Patient (1986-01-24) arrived: 11:55:50  Sampled: 11:55:50 <===
+Nurse Nurse-2 Patient (1953-10-24) arrived: 11:56:07  Sampled: 11:56:07 
+Nurse Nurse-4 Patient (1985-09-12) arrived: 11:57:18  Sampled: 11:57:18 <===
+Nurse Nurse-3 Patient (1983-07-12) arrived: 11:57:46  Sampled: 11:57:46 
+Nurse Nurse-1 Patient (1980-03-18) arrived: 12:00:39  Sampled: 12:00:39 
+Nurse Nurse-2 Patient (1933-09-18) arrived: 12:01:00  Sampled: 12:01:00 
+Nurse Nurse-4 Patient (1952-09-12) arrived: 12:02:03  Sampled: 12:02:03 
+Nurse Nurse-3 Patient (1986-02-23) arrived: 12:06:01  Sampled: 12:06:01 <===
+Nurse Nurse-1 Patient (1946-02-19) arrived: 12:08:00  Sampled: 12:08:00 <===
+Nurse Nurse-2 Patient (1925-11-19) arrived: 12:09:05  Sampled: 12:09:05 <===
+Nurse Nurse-4 Patient (1965-06-16) arrived: 12:11:36  Sampled: 12:11:36 <===
+Nurse Nurse-3 Patient (1954-05-20) arrived: 12:12:22  Sampled: 12:12:22 <===
+Nurse Nurse-1 Patient (1998-04-11) arrived: 12:13:07  Sampled: 12:13:07 
+Nurse Nurse-2 Patient (1935-09-24) arrived: 12:13:35  Sampled: 12:13:35 
+Nurse Nurse-4 Patient (1987-09-27) arrived: 12:14:08  Sampled: 12:14:08 
+Nurse Nurse-3 Patient (1949-08-05) arrived: 12:14:23  Sampled: 12:14:23 
+Nurse Nurse-1 Patient (1981-08-11) arrived: 12:16:58  Sampled: 12:16:58 <===
+Nurse Nurse-2 Patient (1972-12-02) arrived: 12:18:46  Sampled: 12:18:46 <===
+Nurse Nurse-3 Patient (1925-05-25) arrived: 12:19:56  Sampled: 12:19:56 
+Nurse Nurse-4 Patient (1974-05-09) arrived: 12:21:12  Sampled: 12:21:12 
+Nurse Nurse-1 Patient (2003-05-07) arrived: 12:21:18  Sampled: 12:21:18 
+Nurse Nurse-2 Patient (1970-06-21) arrived: 12:23:12  Sampled: 12:23:12 
+Nurse Nurse-3 Patient (1946-07-21) arrived: 12:23:38  Sampled: 12:23:38 
+Nurse Nurse-4 Patient (1972-09-20) arrived: 12:24:54  Sampled: 12:24:54 <===
+Nurse Nurse-1 Patient (1960-02-17) arrived: 12:26:17  Sampled: 12:26:17 
+Nurse Nurse-2 Patient (1972-09-23) arrived: 12:34:06  Sampled: 12:34:06 
+Nurse Nurse-3 Patient (1925-09-17) arrived: 12:37:40  Sampled: 12:37:40 
+Nurse Nurse-4 Patient (1943-04-22) arrived: 12:38:47  Sampled: 12:38:47 <===
+Nurse Nurse-1 Patient (1949-03-22) arrived: 12:39:29  Sampled: 12:39:29 
+Nurse Nurse-2 Patient (1940-05-15) arrived: 12:40:24  Sampled: 12:40:24 <===
+Nurse Nurse-3 Patient (1986-12-25) arrived: 12:40:44  Sampled: 12:40:44 
+Nurse Nurse-4 Patient (1966-01-05) arrived: 12:42:35  Sampled: 12:42:35 
+Nurse Nurse-1 Patient (1957-11-12) arrived: 12:43:43  Sampled: 12:43:43 
+Nurse Nurse-3 Patient (1928-05-04) arrived: 12:45:20  Sampled: 12:45:20 
+Nurse Nurse-2 Patient (1948-06-04) arrived: 12:45:28  Sampled: 12:45:28 
+Nurse Nurse-4 Patient (1927-09-18) arrived: 12:45:51  Sampled: 12:45:51 
+Nurse Nurse-1 Patient (1945-02-17) arrived: 12:46:19  Sampled: 12:46:19 
+Nurse Nurse-3 Patient (1934-10-18) arrived: 12:47:34  Sampled: 12:47:34 
+Nurse Nurse-2 Patient (1933-09-19) arrived: 12:48:48  Sampled: 12:48:48 
+Nurse Nurse-4 Patient (2002-04-14) arrived: 12:49:18  Sampled: 12:49:18 
+Nurse Nurse-1 Patient (1934-02-08) arrived: 12:49:26  Sampled: 12:49:26 
+Nurse Nurse-3 Patient (1994-01-02) arrived: 12:52:30  Sampled: 12:52:30 
+Nurse Nurse-2 Patient (2005-01-23) arrived: 12:52:48  Sampled: 12:52:48 <===
+Nurse Nurse-1 Patient (1935-04-03) arrived: 12:53:22  Sampled: 12:53:22 <===
+Nurse Nurse-4 Patient (1972-12-13) arrived: 12:56:31  Sampled: 12:56:31 
+Nurse Nurse-2 Patient (1974-04-07) arrived: 12:57:41  Sampled: 12:57:41 
+Nurse Nurse-3 Patient (1986-12-18) arrived: 12:58:03  Sampled: 12:58:03 
+Nurse Nurse-1 Patient (1994-03-04) arrived: 12:58:13  Sampled: 12:58:13 
+Nurse Nurse-4 Patient (1967-09-11) arrived: 12:58:23  Sampled: 12:58:23 
+Nurse Nurse-2 Patient (2005-03-06) arrived: 13:03:22  Sampled: 13:03:22 
+Nurse Nurse-3 Patient (1950-12-20) arrived: 13:03:56  Sampled: 13:03:56 
+Nurse Nurse-1 Patient (1950-12-03) arrived: 13:05:44  Sampled: 13:05:44 
+Nurse Nurse-4 Patient (1943-02-01) arrived: 13:06:02  Sampled: 13:06:02 
+Nurse Nurse-3 Patient (1980-10-15) arrived: 13:06:03  Sampled: 13:06:03 
+Nurse Nurse-2 Patient (1981-07-21) arrived: 13:07:04  Sampled: 13:07:04 <===
+Nurse Nurse-4 Patient (1968-04-01) arrived: 13:07:19  Sampled: 13:07:31 <===
+Nurse Nurse-1 Patient (1976-09-26) arrived: 13:09:45  Sampled: 13:09:45 
+Nurse Nurse-2 Patient (1952-02-04) arrived: 13:10:34  Sampled: 13:10:34 
+Nurse Nurse-3 Patient (1957-07-10) arrived: 13:10:41  Sampled: 13:10:41 
+Nurse Nurse-4 Patient (1943-05-14) arrived: 13:10:44  Sampled: 13:10:44 <===
+Nurse Nurse-1 Patient (1950-08-18) arrived: 13:11:31  Sampled: 13:11:40 
+Nurse Nurse-2 Patient (1975-06-21) arrived: 13:15:25  Sampled: 13:15:25 
+Nurse Nurse-3 Patient (1948-11-11) arrived: 13:16:43  Sampled: 13:16:43 
+Nurse Nurse-4 Patient (1970-07-23) arrived: 13:17:04  Sampled: 13:17:04 
+Nurse Nurse-1 Patient (1927-05-09) arrived: 13:17:10  Sampled: 13:17:10 <===
+Nurse Nurse-2 Patient (1967-10-16) arrived: 13:18:50  Sampled: 13:18:50 
+Nurse Nurse-3 Patient (1944-03-05) arrived: 13:22:40  Sampled: 13:22:40 
+Nurse Nurse-4 Patient (1959-06-15) arrived: 13:26:33  Sampled: 13:26:33 <===
+Nurse Nurse-1 Patient (1951-06-26) arrived: 13:29:45  Sampled: 13:29:45 <===
+Nurse Nurse-2 Patient (1959-06-22) arrived: 13:30:43  Sampled: 13:30:43 
+Nurse Nurse-3 Patient (1977-01-28) arrived: 13:30:53  Sampled: 13:30:53 
+Nurse Nurse-4 Patient (1932-01-27) arrived: 13:31:35  Sampled: 13:31:35 
+Nurse Nurse-2 Patient (1948-04-16) arrived: 13:32:25  Sampled: 13:32:25 
+Nurse Nurse-1 Patient (1952-02-05) arrived: 13:35:19  Sampled: 13:35:19 <===
+Nurse Nurse-3 Patient (1975-02-07) arrived: 13:43:20  Sampled: 13:43:20 
+Nurse Nurse-4 Patient (1959-03-18) arrived: 13:46:32  Sampled: 13:46:32 <===
+Nurse Nurse-2 Patient (1940-08-21) arrived: 13:49:30  Sampled: 13:49:30 <===
+Nurse Nurse-1 Patient (1971-09-08) arrived: 13:52:03  Sampled: 13:52:03 
+Nurse Nurse-3 Patient (1972-07-14) arrived: 13:52:18  Sampled: 13:52:18 
+Nurse Nurse-4 Patient (1926-12-12) arrived: 13:55:03  Sampled: 13:55:03 
+Nurse Nurse-2 Patient (1954-05-17) arrived: 13:59:56  Sampled: 13:59:56 <===
+Nurse Nurse-1 Patient (1971-01-17) arrived: 14:00:18  Sampled: 14:00:18 
+Nurse Nurse-3 Patient (2004-03-25) arrived: 14:08:42  Sampled: 14:08:42 
+Nurse Nurse-4 Patient (1972-04-24) arrived: 14:10:12  Sampled: 14:10:12 <===
+Nurse Nurse-2 Patient (1947-07-28) arrived: 14:11:16  Sampled: 14:11:16 
+Nurse Nurse-1 Patient (1959-02-08) arrived: 14:17:32  Sampled: 14:17:32 
+Nurse Nurse-3 Patient (1954-01-15) arrived: 14:22:01  Sampled: 14:22:01 
+Nurse Nurse-4 Patient (2000-07-12) arrived: 14:22:10  Sampled: 14:22:10 
+Nurse Nurse-2 Patient (1990-09-23) arrived: 14:23:56  Sampled: 14:23:56 
+Nurse Nurse-1 Patient (1940-09-12) arrived: 14:28:08  Sampled: 14:28:08 <===
+Nurse Nurse-3 Patient (1973-10-02) arrived: 14:29:56  Sampled: 14:29:56 
+Nurse Nurse-4 Patient (2003-04-18) arrived: 14:34:21  Sampled: 14:34:21 
+Nurse Nurse-2 Patient (1949-08-18) arrived: 14:37:38  Sampled: 14:37:38 
+Nurse Nurse-1 Patient (1926-09-24) arrived: 14:55:00  Sampled: 14:55:00 <===
+Nurse Nurse-3 Patient (1979-02-08) arrived: 14:56:28  Sampled: 14:56:28 
+Nurse Nurse-4 Patient (1936-05-05) arrived: 14:57:56  Sampled: 14:57:56 
+Nurse Nurse-2 Patient (1940-11-25) arrived: 15:08:10  Sampled: 15:08:10 
+Nurse Nurse-1 Patient (1931-10-12) arrived: 15:08:34  Sampled: 15:08:34 <===
+Nurse Nurse-3 Patient (1947-07-20) arrived: 15:08:49  Sampled: 15:08:49 
+Nurse Nurse-4 Patient (2001-01-21) arrived: 15:09:20  Sampled: 15:09:20 <===
+Nurse Nurse-2 Patient (1951-06-10) arrived: 15:09:29  Sampled: 15:09:47 <===
+Nurse Nurse-1 Patient (1958-05-09) arrived: 15:10:32  Sampled: 15:10:32 
+Nurse Nurse-3 Patient (1938-01-20) arrived: 15:17:23  Sampled: 15:17:23 
+Nurse Nurse-4 Patient (1932-10-20) arrived: 15:19:11  Sampled: 15:19:11 
+Nurse Nurse-2 Patient (1995-02-11) arrived: 15:19:57  Sampled: 15:19:57 
+Nurse Nurse-1 Patient (1925-03-13) arrived: 15:20:06  Sampled: 15:20:06 <===
+Nurse Nurse-3 Patient (1952-04-09) arrived: 15:25:50  Sampled: 15:25:50 
+Nurse Nurse-1 Patient (1940-11-12) arrived: 15:27:19  Sampled: 15:27:19 
+Nurse Nurse-4 Patient (1930-10-01) arrived: 15:29:40  Sampled: 15:29:40 <===
+Nurse Nurse-2 Patient (1972-08-01) arrived: 15:30:24  Sampled: 15:30:24 
+Nurse Nurse-3 Patient (1971-11-17) arrived: 15:30:55  Sampled: 15:30:55 
+Nurse Nurse-1 Patient (1942-04-05) arrived: 15:30:56  Sampled: 15:30:56 <===
+Nurse Nurse-4 Patient (1956-10-26) arrived: 15:31:27  Sampled: 15:31:27 <===
+Nurse Nurse-2 Patient (1982-12-17) arrived: 15:33:23  Sampled: 15:33:23 
+Nurse Nurse-3 Patient (1954-05-12) arrived: 15:38:02  Sampled: 15:38:02 
+Nurse Nurse-1 Patient (2003-05-19) arrived: 15:38:21  Sampled: 15:38:21 
+Nurse Nurse-4 Patient (1935-02-28) arrived: 15:42:50  Sampled: 15:42:50 
+Nurse Nurse-2 Patient (1986-05-25) arrived: 15:43:17  Sampled: 15:43:17 
+Nurse Nurse-1 Patient (2002-08-24) arrived: 15:44:19  Sampled: 15:44:19 <===
+Nurse Nurse-3 Patient (1984-12-16) arrived: 15:48:55  Sampled: 15:48:55 
+Nurse Nurse-4 Patient (1955-02-15) arrived: 15:52:46  Sampled: 15:52:46 
+
+Nurse Nurse-1 Patient (2003-02-04) arrived: 08:00:18  Sampled: 08:00:18 
+Nurse Nurse-4 Patient (1931-09-13) arrived: 08:00:29  Sampled: 08:00:29 
+Nurse Nurse-2 Patient (1953-07-07) arrived: 08:01:00  Sampled: 08:01:00 
+Nurse Nurse-3 Patient (1945-07-19) arrived: 08:01:37  Sampled: 08:01:37 
+Nurse Nurse-4 Patient (1958-03-20) arrived: 08:04:44  Sampled: 08:04:44 
+Nurse Nurse-1 Patient (1990-10-22) arrived: 08:04:54  Sampled: 08:04:54 
+Nurse Nurse-2 Patient (1968-06-13) arrived: 08:05:05  Sampled: 08:05:05 <===
+Nurse Nurse-3 Patient (1968-10-04) arrived: 08:05:11  Sampled: 08:05:11 
+Nurse Nurse-2 Patient (1953-09-08) arrived: 08:06:10  Sampled: 08:05:16 
+Nurse Nurse-1 Patient (1961-09-28) arrived: 08:06:19  Sampled: 08:05:35 
+Nurse Nurse-3 Patient (1954-08-13) arrived: 08:06:35  Sampled: 08:05:39 
+Nurse Nurse-4 Patient (1985-09-20) arrived: 08:07:21  Sampled: 08:06:27 
+Nurse Nurse-1 Patient (1981-10-11) arrived: 08:07:42  Sampled: 08:06:38 
+Nurse Nurse-2 Patient (1928-12-01) arrived: 08:08:27  Sampled: 08:06:41 
+Nurse Nurse-4 Patient (2004-10-06) arrived: 08:08:33  Sampled: 08:06:58 
+Nurse Nurse-1 Patient (1948-09-04) arrived: 08:08:44  Sampled: 08:07:07 
+Nurse Nurse-3 Patient (1985-11-03) arrived: 08:08:47  Sampled: 08:07:12 
+Nurse Nurse-2 Patient (1952-04-18) arrived: 08:09:51  Sampled: 08:07:33 
+Nurse Nurse-4 Patient (1968-11-15) arrived: 08:10:07  Sampled: 08:07:39 <===
+Nurse Nurse-1 Patient (1969-02-14) arrived: 08:10:25  Sampled: 08:07:42 
+Nurse Nurse-3 Patient (1966-07-24) arrived: 08:10:57  Sampled: 08:10:01 
+Nurse Nurse-4 Patient (1941-01-06) arrived: 08:11:28  Sampled: 08:10:27 
+Nurse Nurse-1 Patient (1932-07-17) arrived: 08:12:13  Sampled: 08:11:12 
+Nurse Nurse-2 Patient (1999-03-22) arrived: 08:12:20  Sampled: 08:12:15 <===
+Nurse Nurse-3 Patient (1983-03-07) arrived: 08:12:52  Sampled: 08:12:48 
+Nurse Nurse-4 Patient (1956-11-07) arrived: 08:13:39  Sampled: 08:13:00 
+Nurse Nurse-2 Patient (1981-09-14) arrived: 08:13:42  Sampled: 08:13:14 
+Nurse Nurse-1 Patient (2002-02-13) arrived: 08:14:02  Sampled: 08:13:19 
+Nurse Nurse-2 Patient (1988-05-20) arrived: 08:14:48  Sampled: 08:13:37 
+Nurse Nurse-3 Patient (1982-06-09) arrived: 08:15:26  Sampled: 08:14:15 
+Nurse Nurse-1 Patient (1965-03-15) arrived: 08:15:56  Sampled: 08:14:20 <===
+Nurse Nurse-4 Patient (1974-10-05) arrived: 08:16:17  Sampled: 08:14:20 
+Nurse Nurse-2 Patient (1976-09-05) arrived: 08:16:59  Sampled: 08:14:54 
+Nurse Nurse-3 Patient (1999-06-22) arrived: 08:17:26  Sampled: 08:15:00 
+Nurse Nurse-1 Patient (1982-06-26) arrived: 08:17:51  Sampled: 08:15:10 
+Nurse Nurse-4 Patient (1935-03-14) arrived: 08:18:00  Sampled: 08:15:39 
+Nurse Nurse-2 Patient (1939-04-24) arrived: 08:18:14  Sampled: 08:16:00 
+Nurse Nurse-3 Patient (1974-03-15) arrived: 08:18:33  Sampled: 08:17:49 
+Nurse Nurse-4 Patient (1946-01-26) arrived: 08:19:21  Sampled: 08:17:57 
+Nurse Nurse-2 Patient (1932-08-25) arrived: 08:19:33  Sampled: 08:18:21 
+Nurse Nurse-3 Patient (1995-01-28) arrived: 08:20:06  Sampled: 08:19:00 <===
+Nurse Nurse-1 Patient (1946-07-07) arrived: 08:20:11  Sampled: 08:19:13 
+Nurse Nurse-4 Patient (1934-06-10) arrived: 08:20:29  Sampled: 08:19:18 
+Nurse Nurse-2 Patient (1974-11-22) arrived: 08:20:50  Sampled: 08:19:24 <===
+Nurse Nurse-3 Patient (1964-02-28) arrived: 08:21:33  Sampled: 08:19:45 
+Nurse Nurse-1 Patient (1966-06-27) arrived: 08:21:40  Sampled: 08:20:00 <===
+Nurse Nurse-4 Patient (1963-11-11) arrived: 08:23:01  Sampled: 08:20:04 
+Nurse Nurse-1 Patient (1989-09-11) arrived: 08:23:06  Sampled: 08:20:43 
+Nurse Nurse-2 Patient (1988-02-19) arrived: 08:23:18  Sampled: 08:21:45 
+Nurse Nurse-3 Patient (1952-06-08) arrived: 08:23:23  Sampled: 08:22:02 
+Nurse Nurse-1 Patient (1962-04-08) arrived: 08:24:11  Sampled: 08:23:09 
+Nurse Nurse-3 Patient (1928-12-06) arrived: 08:25:19  Sampled: 08:23:41 
+Nurse Nurse-4 Patient (1962-12-17) arrived: 08:25:34  Sampled: 08:23:45 
+Nurse Nurse-2 Patient (2000-02-07) arrived: 08:26:17  Sampled: 08:26:17 
+Nurse Nurse-1 Patient (1934-04-20) arrived: 08:27:10  Sampled: 08:27:10 
+Nurse Nurse-4 Patient (1933-07-02) arrived: 08:27:20  Sampled: 08:27:20 <===
+Nurse Nurse-3 Patient (1951-05-10) arrived: 08:27:46  Sampled: 08:27:20 
+Nurse Nurse-2 Patient (1993-09-18) arrived: 08:28:36  Sampled: 08:27:44 
+Nurse Nurse-1 Patient (1969-03-02) arrived: 08:29:15  Sampled: 08:27:58 
+Nurse Nurse-4 Patient (1960-06-22) arrived: 08:29:43  Sampled: 08:28:10 
+Nurse Nurse-3 Patient (1986-07-21) arrived: 08:29:50  Sampled: 08:29:45 
+Nurse Nurse-2 Patient (1930-04-17) arrived: 08:30:32  Sampled: 08:30:08 
+Nurse Nurse-3 Patient (1935-02-09) arrived: 08:31:14  Sampled: 08:30:25 
+Nurse Nurse-4 Patient (1983-10-02) arrived: 08:31:36  Sampled: 08:31:36 
+Nurse Nurse-2 Patient (1931-04-20) arrived: 08:31:57  Sampled: 08:31:57 
+Nurse Nurse-1 Patient (1994-07-03) arrived: 08:32:26  Sampled: 08:32:26 
+Nurse Nurse-3 Patient (1979-01-19) arrived: 08:32:56  Sampled: 08:32:40 
+Nurse Nurse-2 Patient (1975-05-11) arrived: 08:33:36  Sampled: 08:33:12 
+Nurse Nurse-4 Patient (1937-07-01) arrived: 08:33:52  Sampled: 08:33:21 
+Nurse Nurse-3 Patient (1974-06-04) arrived: 08:35:01  Sampled: 08:35:01 <===
+Nurse Nurse-1 Patient (1961-05-06) arrived: 08:35:12  Sampled: 08:35:12 
+Nurse Nurse-4 Patient (1994-10-01) arrived: 08:35:24  Sampled: 08:35:24 <===
+Nurse Nurse-2 Patient (1935-04-16) arrived: 08:35:28  Sampled: 08:35:28 
+Nurse Nurse-3 Patient (1939-04-03) arrived: 08:36:07  Sampled: 08:35:47 
+Nurse Nurse-4 Patient (1950-10-12) arrived: 08:36:30  Sampled: 08:35:49 
+Nurse Nurse-2 Patient (1989-02-26) arrived: 08:36:34  Sampled: 08:36:00 
+Nurse Nurse-1 Patient (1975-10-24) arrived: 08:37:10  Sampled: 08:37:07 
+Nurse Nurse-2 Patient (1969-05-23) arrived: 08:38:03  Sampled: 08:37:17 <===
+Nurse Nurse-3 Patient (1991-04-14) arrived: 08:38:08  Sampled: 08:37:23 
+Nurse Nurse-4 Patient (1930-03-11) arrived: 08:38:15  Sampled: 08:37:55 
+Nurse Nurse-3 Patient (1940-08-08) arrived: 08:39:24  Sampled: 08:38:02 
+Nurse Nurse-2 Patient (1973-10-02) arrived: 08:39:35  Sampled: 08:38:03 
+Nurse Nurse-1 Patient (1938-07-06) arrived: 08:39:44  Sampled: 08:38:12 
+Nurse Nurse-4 Patient (1928-10-16) arrived: 08:40:19  Sampled: 08:38:25 
+Nurse Nurse-3 Patient (1968-10-23) arrived: 08:40:53  Sampled: 08:38:48 
+Nurse Nurse-2 Patient (1941-04-22) arrived: 08:41:41  Sampled: 08:39:36 
+Nurse Nurse-1 Patient (1932-03-15) arrived: 08:41:50  Sampled: 08:40:13 
+Nurse Nurse-3 Patient (1997-02-23) arrived: 08:41:55  Sampled: 08:40:15 
+Nurse Nurse-4 Patient (1939-04-16) arrived: 08:42:55  Sampled: 08:40:27 
+Nurse Nurse-2 Patient (1999-12-04) arrived: 08:43:32  Sampled: 08:40:37 
+Nurse Nurse-1 Patient (1951-12-02) arrived: 08:43:52  Sampled: 08:41:09 
+Nurse Nurse-3 Patient (1989-03-07) arrived: 08:44:20  Sampled: 08:44:20 
+Nurse Nurse-4 Patient (1961-10-13) arrived: 08:44:53  Sampled: 08:44:53 <===
+Nurse Nurse-1 Patient (1977-09-12) arrived: 08:46:01  Sampled: 08:45:11 
+Nurse Nurse-2 Patient (1952-03-16) arrived: 08:46:07  Sampled: 08:45:12 <===
+Nurse Nurse-3 Patient (1993-12-21) arrived: 08:46:25  Sampled: 08:45:26 
+Nurse Nurse-4 Patient (1964-01-01) arrived: 08:47:36  Sampled: 08:47:36 
+Nurse Nurse-3 Patient (1964-01-12) arrived: 08:47:36  Sampled: 08:47:36 
+Nurse Nurse-1 Patient (1958-09-19) arrived: 08:47:45  Sampled: 08:47:42 
+Nurse Nurse-2 Patient (1970-07-08) arrived: 08:48:30  Sampled: 08:48:04 
+Nurse Nurse-3 Patient (1979-10-01) arrived: 08:49:25  Sampled: 08:48:40 
+Nurse Nurse-1 Patient (1987-06-06) arrived: 08:49:29  Sampled: 08:49:10 
+Nurse Nurse-2 Patient (1962-08-20) arrived: 08:49:50  Sampled: 08:49:36 
+Nurse Nurse-4 Patient (2002-11-11) arrived: 08:50:08  Sampled: 08:49:44 
+Nurse Nurse-2 Patient (1981-07-05) arrived: 08:51:22  Sampled: 08:50:04 <===
+Nurse Nurse-3 Patient (1963-06-05) arrived: 08:51:37  Sampled: 08:50:13 
+Nurse Nurse-1 Patient (1988-12-06) arrived: 08:51:54  Sampled: 08:50:35 <===
+Nurse Nurse-4 Patient (1991-07-27) arrived: 08:52:20  Sampled: 08:51:19 
+Nurse Nurse-2 Patient (1986-02-25) arrived: 08:52:40  Sampled: 08:52:12 
+Nurse Nurse-1 Patient (1927-04-28) arrived: 08:53:06  Sampled: 08:52:22 <===
+Nurse Nurse-3 Patient (1992-05-28) arrived: 08:53:20  Sampled: 08:53:10 <===
+Nurse Nurse-4 Patient (1973-11-11) arrived: 08:54:00  Sampled: 08:53:46 <===
+Nurse Nurse-2 Patient (1943-10-09) arrived: 08:54:51  Sampled: 08:54:51 
+Nurse Nurse-3 Patient (1975-06-03) arrived: 08:55:24  Sampled: 08:55:24 <===
+Nurse Nurse-1 Patient (1947-09-12) arrived: 08:55:52  Sampled: 08:55:52 
+Nurse Nurse-4 Patient (1968-02-26) arrived: 08:56:06  Sampled: 08:56:06 <===
+Nurse Nurse-2 Patient (1962-05-13) arrived: 08:56:43  Sampled: 08:56:21 
+Nurse Nurse-3 Patient (1962-04-05) arrived: 08:57:27  Sampled: 08:57:24 <===
+Nurse Nurse-1 Patient (1930-09-09) arrived: 08:57:42  Sampled: 08:57:42 
+Nurse Nurse-4 Patient (2003-02-12) arrived: 08:58:08  Sampled: 08:58:08 
+Nurse Nurse-3 Patient (1989-03-28) arrived: 08:58:29  Sampled: 08:58:10 
+Nurse Nurse-1 Patient (1980-05-21) arrived: 08:58:47  Sampled: 08:58:39 
+Nurse Nurse-2 Patient (1930-12-16) arrived: 08:59:27  Sampled: 08:59:27 
+Nurse Nurse-4 Patient (1966-06-24) arrived: 09:00:41  Sampled: 09:00:41 
+Nurse Nurse-3 Patient (1974-03-15) arrived: 09:01:10  Sampled: 09:01:10 
+Nurse Nurse-1 Patient (2002-10-21) arrived: 09:01:27  Sampled: 09:01:27 
+Nurse Nurse-2 Patient (1981-03-19) arrived: 09:01:31  Sampled: 09:01:31 <===
+Nurse Nurse-1 Patient (1951-03-15) arrived: 09:02:35  Sampled: 09:01:41 
+Nurse Nurse-3 Patient (1952-07-23) arrived: 09:02:58  Sampled: 09:01:54 <===
+Nurse Nurse-4 Patient (1943-11-26) arrived: 09:03:15  Sampled: 09:02:20 
+Nurse Nurse-2 Patient (1987-09-01) arrived: 09:04:00  Sampled: 09:04:00 
+Nurse Nurse-1 Patient (1958-03-23) arrived: 09:04:36  Sampled: 09:04:08 
+Nurse Nurse-3 Patient (1984-07-07) arrived: 09:05:32  Sampled: 09:04:18 
+Nurse Nurse-4 Patient (1989-06-19) arrived: 09:06:11  Sampled: 09:06:11 
+Nurse Nurse-1 Patient (2003-05-26) arrived: 09:06:30  Sampled: 09:06:12 
+Nurse Nurse-2 Patient (1964-10-18) arrived: 09:07:19  Sampled: 09:07:19 
+Nurse Nurse-3 Patient (2001-12-24) arrived: 09:08:15  Sampled: 09:08:15 
+Nurse Nurse-1 Patient (2003-05-20) arrived: 09:08:38  Sampled: 09:08:30 
+Nurse Nurse-4 Patient (1975-11-18) arrived: 09:08:48  Sampled: 09:08:38 
+Nurse Nurse-2 Patient (1979-01-03) arrived: 09:09:18  Sampled: 09:09:03 
+Nurse Nurse-3 Patient (1971-12-14) arrived: 09:09:30  Sampled: 09:09:27 
+Nurse Nurse-4 Patient (1928-01-07) arrived: 09:10:08  Sampled: 09:09:31 
+Nurse Nurse-3 Patient (2005-10-15) arrived: 09:11:02  Sampled: 09:09:36 
+Nurse Nurse-1 Patient (1990-05-23) arrived: 09:11:09  Sampled: 09:09:41 
+Nurse Nurse-2 Patient (1930-01-22) arrived: 09:11:57  Sampled: 09:11:02 
+Nurse Nurse-4 Patient (1983-02-23) arrived: 09:12:42  Sampled: 09:11:27 
+Nurse Nurse-3 Patient (1982-06-14) arrived: 09:12:48  Sampled: 09:11:37 
+Nurse Nurse-1 Patient (1944-02-04) arrived: 09:13:26  Sampled: 09:12:27 <===
+Nurse Nurse-2 Patient (1933-11-02) arrived: 09:14:02  Sampled: 09:12:38 
+Nurse Nurse-4 Patient (1997-11-10) arrived: 09:14:30  Sampled: 09:12:49 
+Nurse Nurse-3 Patient (1970-06-26) arrived: 09:14:33  Sampled: 09:13:04 <===
+Nurse Nurse-2 Patient (1987-08-02) arrived: 09:15:02  Sampled: 09:13:21 
+Nurse Nurse-1 Patient (1983-06-15) arrived: 09:15:15  Sampled: 09:14:05 
+Nurse Nurse-4 Patient (1986-09-27) arrived: 09:16:02  Sampled: 09:14:17 <===
+Nurse Nurse-3 Patient (1985-04-17) arrived: 09:16:21  Sampled: 09:14:38 
+Nurse Nurse-2 Patient (1928-07-04) arrived: 09:16:23  Sampled: 09:14:56 <===
+Nurse Nurse-1 Patient (1970-03-06) arrived: 09:16:44  Sampled: 09:15:27 
+Nurse Nurse-4 Patient (1971-09-26) arrived: 09:17:06  Sampled: 09:16:02 
+Nurse Nurse-3 Patient (1990-02-19) arrived: 09:17:47  Sampled: 09:16:08 
+Nurse Nurse-4 Patient (1991-03-27) arrived: 09:18:23  Sampled: 09:16:36 
+Nurse Nurse-1 Patient (1969-03-20) arrived: 09:18:27  Sampled: 09:16:39 
+Nurse Nurse-2 Patient (1957-09-18) arrived: 09:18:40  Sampled: 09:16:47 
+Nurse Nurse-3 Patient (1958-12-02) arrived: 09:19:37  Sampled: 09:17:28 
+Nurse Nurse-2 Patient (1979-01-05) arrived: 09:19:46  Sampled: 09:17:42 
+Nurse Nurse-1 Patient (1954-10-10) arrived: 09:20:06  Sampled: 09:17:48 
+Nurse Nurse-4 Patient (1979-04-10) arrived: 09:20:24  Sampled: 09:18:52 
+Nurse Nurse-3 Patient (2002-02-23) arrived: 09:21:27  Sampled: 09:19:17 
+Nurse Nurse-2 Patient (1932-08-23) arrived: 09:21:31  Sampled: 09:19:26 <===
+Nurse Nurse-1 Patient (1986-03-19) arrived: 09:22:42  Sampled: 09:21:12 
+Nurse Nurse-3 Patient (1959-02-25) arrived: 09:22:46  Sampled: 09:21:40 
+Nurse Nurse-4 Patient (1940-11-10) arrived: 09:23:03  Sampled: 09:21:44 <===
+Nurse Nurse-2 Patient (1954-07-07) arrived: 09:23:46  Sampled: 09:22:05 
+Nurse Nurse-4 Patient (1955-06-14) arrived: 09:24:28  Sampled: 09:22:35 <===
+Nurse Nurse-3 Patient (1944-04-09) arrived: 09:25:03  Sampled: 09:22:51 
+Nurse Nurse-1 Patient (1940-01-27) arrived: 09:25:08  Sampled: 09:22:55 
+Nurse Nurse-2 Patient (1995-10-05) arrived: 09:25:42  Sampled: 09:24:04 <===
+Nurse Nurse-4 Patient (1983-04-11) arrived: 09:26:08  Sampled: 09:26:08 
+Nurse Nurse-3 Patient (1953-08-08) arrived: 09:26:54  Sampled: 09:26:47 
+Nurse Nurse-2 Patient (1998-12-01) arrived: 09:27:39  Sampled: 09:26:57 <===
+Nurse Nurse-1 Patient (1950-06-23) arrived: 09:27:45  Sampled: 09:27:06 
+Nurse Nurse-4 Patient (1961-02-16) arrived: 09:28:27  Sampled: 09:27:23 <===
+Nurse Nurse-1 Patient (1934-11-15) arrived: 09:28:46  Sampled: 09:28:04 
+Nurse Nurse-3 Patient (1934-12-15) arrived: 09:29:05  Sampled: 09:28:05 
+Nurse Nurse-4 Patient (1973-02-21) arrived: 09:29:47  Sampled: 09:28:30 
+Nurse Nurse-1 Patient (1928-10-02) arrived: 09:29:49  Sampled: 09:28:40 
+Nurse Nurse-2 Patient (1929-04-03) arrived: 09:29:56  Sampled: 09:29:05 
+Nurse Nurse-3 Patient (1998-07-27) arrived: 09:30:09  Sampled: 09:29:39 
+Nurse Nurse-4 Patient (1933-07-09) arrived: 09:31:23  Sampled: 09:30:04 
+Nurse Nurse-2 Patient (1971-11-13) arrived: 09:31:43  Sampled: 09:30:13 
+Nurse Nurse-3 Patient (1977-10-08) arrived: 09:31:52  Sampled: 09:30:37 
+Nurse Nurse-1 Patient (1966-12-04) arrived: 09:31:57  Sampled: 09:31:15 <===
+Nurse Nurse-2 Patient (1954-06-04) arrived: 09:32:46  Sampled: 09:31:54 
+Nurse Nurse-4 Patient (1939-05-05) arrived: 09:33:48  Sampled: 09:31:57 
+Nurse Nurse-1 Patient (1966-04-17) arrived: 09:34:13  Sampled: 09:32:06 
+Nurse Nurse-3 Patient (1985-09-21) arrived: 09:34:31  Sampled: 09:32:09 
+Nurse Nurse-2 Patient (2000-05-10) arrived: 09:34:55  Sampled: 09:32:21 
+Nurse Nurse-1 Patient (1940-05-16) arrived: 09:35:47  Sampled: 09:33:39 <===
+Nurse Nurse-4 Patient (1970-07-17) arrived: 09:35:48  Sampled: 09:35:02 
+Nurse Nurse-3 Patient (1925-10-15) arrived: 09:36:12  Sampled: 09:35:28 
+Nurse Nurse-2 Patient (1996-02-28) arrived: 09:36:18  Sampled: 09:35:31 
+Nurse Nurse-1 Patient (1982-01-25) arrived: 09:36:50  Sampled: 09:36:34 
+Nurse Nurse-4 Patient (1987-05-22) arrived: 09:37:14  Sampled: 09:37:14 
+Nurse Nurse-2 Patient (1949-02-06) arrived: 09:37:58  Sampled: 09:37:58 
+Nurse Nurse-3 Patient (1974-01-06) arrived: 09:39:29  Sampled: 09:39:29 
+Nurse Nurse-1 Patient (1995-04-25) arrived: 09:39:45  Sampled: 09:39:45 
+Nurse Nurse-4 Patient (1949-11-03) arrived: 09:40:00  Sampled: 09:40:00 
+Nurse Nurse-2 Patient (1953-10-19) arrived: 09:40:18  Sampled: 09:40:16 
+Nurse Nurse-3 Patient (1953-09-20) arrived: 09:41:04  Sampled: 09:40:58 
+Nurse Nurse-4 Patient (2005-10-27) arrived: 09:41:14  Sampled: 09:41:14 <===
+Nurse Nurse-1 Patient (1930-06-03) arrived: 09:41:59  Sampled: 09:41:59 
+Nurse Nurse-4 Patient (1986-06-08) arrived: 09:42:19  Sampled: 09:42:05 
+Nurse Nurse-2 Patient (1939-01-18) arrived: 09:42:26  Sampled: 09:42:12 
+Nurse Nurse-3 Patient (1967-01-10) arrived: 09:43:06  Sampled: 09:42:17 
+Nurse Nurse-1 Patient (1995-12-19) arrived: 09:43:36  Sampled: 09:42:57 
+Nurse Nurse-2 Patient (2005-10-20) arrived: 09:44:17  Sampled: 09:42:58 
+Nurse Nurse-4 Patient (1960-06-12) arrived: 09:44:20  Sampled: 09:43:50 
+Nurse Nurse-3 Patient (1986-05-19) arrived: 09:44:58  Sampled: 09:44:35 
+Nurse Nurse-1 Patient (1994-03-05) arrived: 09:45:24  Sampled: 09:45:15 
+Nurse Nurse-4 Patient (1999-08-03) arrived: 09:47:12  Sampled: 09:47:12 
+Nurse Nurse-2 Patient (1963-03-15) arrived: 09:47:16  Sampled: 09:47:16 
+Nurse Nurse-3 Patient (1976-11-26) arrived: 09:48:14  Sampled: 09:48:14 <===
+Nurse Nurse-1 Patient (1978-02-06) arrived: 09:48:33  Sampled: 09:48:33 
+Nurse Nurse-2 Patient (1987-04-17) arrived: 09:49:26  Sampled: 09:49:26 
+Nurse Nurse-4 Patient (1933-12-07) arrived: 09:49:41  Sampled: 09:49:41 
+Nurse Nurse-1 Patient (1953-08-26) arrived: 09:50:39  Sampled: 09:50:39 
+Nurse Nurse-3 Patient (1968-06-19) arrived: 09:50:54  Sampled: 09:50:54 
+Nurse Nurse-2 Patient (1932-03-25) arrived: 09:51:42  Sampled: 09:51:42 
+Nurse Nurse-4 Patient (1950-03-01) arrived: 09:52:07  Sampled: 09:52:07 <===
+Nurse Nurse-1 Patient (1927-02-24) arrived: 09:52:36  Sampled: 09:52:36 
+Nurse Nurse-3 Patient (1940-07-02) arrived: 09:53:22  Sampled: 09:53:22 
+Nurse Nurse-4 Patient (1959-04-05) arrived: 09:53:29  Sampled: 09:53:28 
+Nurse Nurse-1 Patient (1943-05-25) arrived: 09:53:42  Sampled: 09:53:35 
+Nurse Nurse-2 Patient (1958-03-18) arrived: 09:53:47  Sampled: 09:53:46 
+Nurse Nurse-3 Patient (1954-06-12) arrived: 09:54:34  Sampled: 09:54:01 
+Nurse Nurse-4 Patient (1943-07-26) arrived: 09:55:07  Sampled: 09:54:02 <===
+Nurse Nurse-2 Patient (1953-12-27) arrived: 09:56:08  Sampled: 09:56:08 <===
+Nurse Nurse-1 Patient (1941-07-15) arrived: 09:56:24  Sampled: 09:56:24 
+Nurse Nurse-4 Patient (1957-11-13) arrived: 09:57:04  Sampled: 09:57:04 <===
+Nurse Nurse-3 Patient (1942-08-23) arrived: 09:57:09  Sampled: 09:57:09 
+Nurse Nurse-2 Patient (1926-04-16) arrived: 09:58:06  Sampled: 09:57:31 
+Nurse Nurse-1 Patient (1931-12-10) arrived: 09:58:20  Sampled: 09:57:34 
+Nurse Nurse-4 Patient (2000-01-25) arrived: 09:58:32  Sampled: 09:57:36 
+Nurse Nurse-3 Patient (1926-01-25) arrived: 09:58:52  Sampled: 09:57:39 
+Nurse Nurse-2 Patient (1936-07-16) arrived: 09:59:07  Sampled: 09:57:59 
+Nurse Nurse-4 Patient (1997-05-21) arrived: 09:59:58  Sampled: 09:59:11 
+Nurse Nurse-3 Patient (1968-01-15) arrived: 10:00:06  Sampled: 09:59:12 
+Nurse Nurse-1 Patient (1958-01-13) arrived: 10:00:44  Sampled: 09:59:20 
+Nurse Nurse-2 Patient (1950-08-24) arrived: 10:00:59  Sampled: 09:59:37 <===
+Nurse Nurse-4 Patient (1932-10-14) arrived: 10:02:12  Sampled: 10:00:32 
+Nurse Nurse-2 Patient (1963-01-05) arrived: 10:02:19  Sampled: 10:00:34 
+Nurse Nurse-3 Patient (1938-10-24) arrived: 10:02:32  Sampled: 10:01:07 
+Nurse Nurse-1 Patient (1953-07-28) arrived: 10:03:15  Sampled: 10:01:46 
+Nurse Nurse-4 Patient (2004-09-18) arrived: 10:03:54  Sampled: 10:01:52 
+Nurse Nurse-2 Patient (1930-12-02) arrived: 10:03:59  Sampled: 10:02:08 
+Nurse Nurse-3 Patient (1993-12-03) arrived: 10:04:53  Sampled: 10:03:39 
+Nurse Nurse-1 Patient (1932-06-13) arrived: 10:04:56  Sampled: 10:04:22 
+Nurse Nurse-2 Patient (1961-08-14) arrived: 10:05:11  Sampled: 10:04:50 
+Nurse Nurse-3 Patient (1973-06-10) arrived: 10:06:12  Sampled: 10:04:58 
+Nurse Nurse-4 Patient (1954-03-25) arrived: 10:06:22  Sampled: 10:05:06 
+Nurse Nurse-1 Patient (1936-07-04) arrived: 10:07:08  Sampled: 10:06:14 
+Nurse Nurse-2 Patient (1940-09-19) arrived: 10:08:11  Sampled: 10:08:11 
+Nurse Nurse-3 Patient (1925-03-11) arrived: 10:08:58  Sampled: 10:08:58 
+Nurse Nurse-4 Patient (1949-03-24) arrived: 10:10:28  Sampled: 10:10:28 
+Nurse Nurse-1 Patient (1949-06-14) arrived: 10:10:38  Sampled: 10:10:38 
+Nurse Nurse-2 Patient (2000-05-05) arrived: 10:10:55  Sampled: 10:10:55 
+Nurse Nurse-3 Patient (1975-05-28) arrived: 10:11:12  Sampled: 10:11:09 
+Nurse Nurse-4 Patient (1940-08-27) arrived: 10:12:51  Sampled: 10:12:51 
+Nurse Nurse-1 Patient (1974-11-05) arrived: 10:12:53  Sampled: 10:12:53 <===
+Nurse Nurse-2 Patient (1983-04-12) arrived: 10:13:21  Sampled: 10:13:21 
+Nurse Nurse-3 Patient (1958-06-25) arrived: 10:13:28  Sampled: 10:13:28 <===
+Nurse Nurse-1 Patient (1959-05-08) arrived: 10:14:54  Sampled: 10:14:54 
+Nurse Nurse-4 Patient (1985-03-28) arrived: 10:14:55  Sampled: 10:14:55 <===
+Nurse Nurse-2 Patient (1950-02-15) arrived: 10:14:58  Sampled: 10:14:58 
+Nurse Nurse-3 Patient (1947-07-01) arrived: 10:15:13  Sampled: 10:15:02 
+Nurse Nurse-1 Patient (1977-05-25) arrived: 10:16:44  Sampled: 10:16:11 <===
+Nurse Nurse-3 Patient (1974-09-01) arrived: 10:16:44  Sampled: 10:16:24 
+Nurse Nurse-2 Patient (1936-08-22) arrived: 10:17:20  Sampled: 10:17:20 
+Nurse Nurse-4 Patient (1971-09-11) arrived: 10:17:40  Sampled: 10:17:40 
+Nurse Nurse-3 Patient (1941-07-21) arrived: 10:18:27  Sampled: 10:17:47 <===
+Nurse Nurse-1 Patient (1934-12-27) arrived: 10:18:46  Sampled: 10:18:25 <===
+Nurse Nurse-4 Patient (1993-12-03) arrived: 10:19:10  Sampled: 10:18:49 
+Nurse Nurse-2 Patient (1965-10-07) arrived: 10:19:39  Sampled: 10:19:00 
+Nurse Nurse-3 Patient (1971-05-16) arrived: 10:19:56  Sampled: 10:19:20 
+Nurse Nurse-2 Patient (1934-07-14) arrived: 10:20:46  Sampled: 10:19:24 
+Nurse Nurse-3 Patient (1927-06-12) arrived: 10:21:13  Sampled: 10:19:27 
+Nurse Nurse-1 Patient (1931-01-22) arrived: 10:21:14  Sampled: 10:19:34 
+Nurse Nurse-4 Patient (1972-05-20) arrived: 10:21:32  Sampled: 10:19:50 
+Nurse Nurse-1 Patient (1966-07-11) arrived: 10:22:25  Sampled: 10:20:54 
+Nurse Nurse-4 Patient (1952-04-17) arrived: 10:22:35  Sampled: 10:21:00 <===
+Nurse Nurse-2 Patient (1987-10-25) arrived: 10:23:04  Sampled: 10:22:35 
+Nurse Nurse-3 Patient (1967-10-21) arrived: 10:23:26  Sampled: 10:23:26 
+Nurse Nurse-4 Patient (1969-09-03) arrived: 10:24:06  Sampled: 10:24:06 
+Nurse Nurse-1 Patient (1974-03-04) arrived: 10:24:28  Sampled: 10:24:21 
+Nurse Nurse-2 Patient (1962-03-13) arrived: 10:25:31  Sampled: 10:25:31 
+Nurse Nurse-3 Patient (1986-09-11) arrived: 10:26:21  Sampled: 10:26:21 
+Nurse Nurse-4 Patient (1997-01-14) arrived: 10:28:33  Sampled: 10:28:33 
+Nurse Nurse-1 Patient (1990-12-08) arrived: 10:29:25  Sampled: 10:29:25 
+Nurse Nurse-3 Patient (1970-12-24) arrived: 10:30:08  Sampled: 10:30:08 
+Nurse Nurse-2 Patient (1931-07-01) arrived: 10:30:27  Sampled: 10:30:27 
+Nurse Nurse-4 Patient (1981-03-23) arrived: 10:31:04  Sampled: 10:31:04 <===
+Nurse Nurse-2 Patient (1929-05-17) arrived: 10:32:13  Sampled: 10:32:13 
+Nurse Nurse-1 Patient (1946-04-15) arrived: 10:32:20  Sampled: 10:32:20 
+Nurse Nurse-3 Patient (1979-05-15) arrived: 10:33:07  Sampled: 10:33:07 
+Nurse Nurse-4 Patient (1946-05-10) arrived: 10:33:21  Sampled: 10:33:10 <===
+Nurse Nurse-1 Patient (1982-06-09) arrived: 10:33:56  Sampled: 10:33:27 <===
+Nurse Nurse-3 Patient (1993-12-24) arrived: 10:34:23  Sampled: 10:33:58 
+Nurse Nurse-4 Patient (1944-01-20) arrived: 10:34:54  Sampled: 10:34:54 
+Nurse Nurse-2 Patient (1928-09-26) arrived: 10:34:59  Sampled: 10:34:59 
+Nurse Nurse-1 Patient (1951-09-05) arrived: 10:35:53  Sampled: 10:35:31 <===
+Nurse Nurse-4 Patient (1947-10-17) arrived: 10:36:03  Sampled: 10:35:45 
+Nurse Nurse-3 Patient (1949-08-19) arrived: 10:36:53  Sampled: 10:36:13 
+Nurse Nurse-2 Patient (1977-04-08) arrived: 10:36:59  Sampled: 10:36:27 
+Nurse Nurse-1 Patient (1989-08-08) arrived: 10:36:59  Sampled: 10:36:34 
+Nurse Nurse-4 Patient (1973-04-21) arrived: 10:37:14  Sampled: 10:36:54 
+Nurse Nurse-2 Patient (1960-08-14) arrived: 10:38:21  Sampled: 10:37:25 
+Nurse Nurse-3 Patient (1984-02-02) arrived: 10:38:22  Sampled: 10:37:32 
+Nurse Nurse-1 Patient (1965-02-26) arrived: 10:38:25  Sampled: 10:37:37 
+Nurse Nurse-4 Patient (1989-04-02) arrived: 10:39:12  Sampled: 10:37:47 
+Nurse Nurse-3 Patient (1944-08-01) arrived: 10:39:52  Sampled: 10:38:46 
+Nurse Nurse-1 Patient (1945-01-23) arrived: 10:39:37  Sampled: 10:38:46 
+Nurse Nurse-4 Patient (1944-02-25) arrived: 10:40:27  Sampled: 10:39:47 
+Nurse Nurse-2 Patient (2004-10-08) arrived: 10:42:30  Sampled: 10:42:30 
+Nurse Nurse-3 Patient (1976-12-28) arrived: 10:43:51  Sampled: 10:43:51 
+Nurse Nurse-1 Patient (1989-12-20) arrived: 10:47:38  Sampled: 10:47:38 <===
+Nurse Nurse-4 Patient (1955-10-06) arrived: 10:48:18  Sampled: 10:48:18 <===
+Nurse Nurse-2 Patient (1968-08-01) arrived: 10:48:52  Sampled: 10:48:52 <===
+Nurse Nurse-3 Patient (1986-04-13) arrived: 10:52:48  Sampled: 10:52:48 <===
+Nurse Nurse-1 Patient (1939-11-09) arrived: 10:53:17  Sampled: 10:53:17 
+Nurse Nurse-4 Patient (1931-05-14) arrived: 10:53:26  Sampled: 10:53:26 
+Nurse Nurse-2 Patient (1952-11-20) arrived: 10:54:25  Sampled: 10:54:25 
+Nurse Nurse-3 Patient (1964-10-10) arrived: 10:55:00  Sampled: 10:55:00 
+Nurse Nurse-4 Patient (1994-08-28) arrived: 10:56:12  Sampled: 10:56:12 
+Nurse Nurse-1 Patient (1996-11-11) arrived: 10:57:35  Sampled: 10:57:35 
+Nurse Nurse-2 Patient (1958-06-27) arrived: 10:58:22  Sampled: 10:58:22 
+Nurse Nurse-4 Patient (1969-02-28) arrived: 10:58:54  Sampled: 10:58:54 
+Nurse Nurse-3 Patient (1976-05-06) arrived: 11:01:52  Sampled: 11:01:52 
+Nurse Nurse-1 Patient (1983-05-19) arrived: 11:03:49  Sampled: 11:03:49 
+Nurse Nurse-2 Patient (1994-05-20) arrived: 11:04:26  Sampled: 11:04:26 
+Nurse Nurse-4 Patient (1979-09-03) arrived: 11:06:20  Sampled: 11:06:20 
+Nurse Nurse-3 Patient (1995-11-28) arrived: 11:07:36  Sampled: 11:07:36 
+Nurse Nurse-2 Patient (1946-12-01) arrived: 11:07:48  Sampled: 11:07:48 
+Nurse Nurse-1 Patient (1963-03-03) arrived: 11:08:28  Sampled: 11:08:28 
+Nurse Nurse-4 Patient (1958-02-22) arrived: 11:08:34  Sampled: 11:08:34 <===
+Nurse Nurse-3 Patient (1963-02-05) arrived: 11:09:04  Sampled: 11:09:04 <===
+Nurse Nurse-2 Patient (1990-07-08) arrived: 11:09:38  Sampled: 11:09:38 
+Nurse Nurse-1 Patient (1973-12-12) arrived: 11:11:29  Sampled: 11:11:29 
+Nurse Nurse-4 Patient (1946-08-09) arrived: 11:11:53  Sampled: 11:11:53 
+Nurse Nurse-3 Patient (1996-04-13) arrived: 11:12:43  Sampled: 11:12:43 
+Nurse Nurse-2 Patient (1968-03-03) arrived: 11:14:11  Sampled: 11:14:11 
+Nurse Nurse-1 Patient (1950-11-04) arrived: 11:17:16  Sampled: 11:17:16 
+Nurse Nurse-3 Patient (1999-04-27) arrived: 11:17:36  Sampled: 11:17:36 
+Nurse Nurse-4 Patient (1931-10-24) arrived: 11:18:36  Sampled: 11:18:36 
+Nurse Nurse-2 Patient (1947-06-13) arrived: 11:19:31  Sampled: 11:19:31 
+Nurse Nurse-1 Patient (1931-12-28) arrived: 11:23:26  Sampled: 11:23:26 
+Nurse Nurse-3 Patient (1976-05-13) arrived: 11:26:03  Sampled: 11:26:03 
+Nurse Nurse-4 Patient (1948-12-24) arrived: 11:26:32  Sampled: 11:26:32 
+Nurse Nurse-2 Patient (1955-08-22) arrived: 11:27:53  Sampled: 11:27:53 
+Nurse Nurse-1 Patient (1998-07-03) arrived: 11:28:01  Sampled: 11:28:01 
+Nurse Nurse-3 Patient (1995-08-21) arrived: 11:30:18  Sampled: 11:30:18 <===
+Nurse Nurse-4 Patient (1944-06-27) arrived: 11:32:44  Sampled: 11:32:44 
+Nurse Nurse-2 Patient (1941-04-21) arrived: 11:34:24  Sampled: 11:34:24 
+Nurse Nurse-1 Patient (1970-11-26) arrived: 11:35:39  Sampled: 11:35:39 
+Nurse Nurse-3 Patient (2004-10-05) arrived: 11:38:25  Sampled: 11:38:25 
+Nurse Nurse-4 Patient (1954-11-25) arrived: 11:38:53  Sampled: 11:38:53 
+Nurse Nurse-2 Patient (1975-04-23) arrived: 11:42:28  Sampled: 11:42:28 
+Nurse Nurse-1 Patient (1993-11-18) arrived: 11:42:43  Sampled: 11:42:43 
+Nurse Nurse-3 Patient (1951-04-27) arrived: 11:43:28  Sampled: 11:43:28 
+Nurse Nurse-4 Patient (1978-09-28) arrived: 11:43:37  Sampled: 11:43:37 
+Nurse Nurse-2 Patient (1942-07-23) arrived: 11:45:22  Sampled: 11:45:22 
+Nurse Nurse-4 Patient (1956-07-27) arrived: 11:46:00  Sampled: 11:46:00 
+Nurse Nurse-1 Patient (1936-03-18) arrived: 11:50:06  Sampled: 11:50:06 
+Nurse Nurse-3 Patient (1962-11-17) arrived: 11:50:39  Sampled: 11:50:39 
+Nurse Nurse-2 Patient (1935-09-02) arrived: 11:51:50  Sampled: 11:51:50 
+Nurse Nurse-4 Patient (1938-12-14) arrived: 11:51:52  Sampled: 11:51:52 
+Nurse Nurse-3 Patient (1940-03-25) arrived: 11:52:12  Sampled: 11:52:04 
+Nurse Nurse-1 Patient (1965-01-04) arrived: 11:52:31  Sampled: 11:52:07 
+Nurse Nurse-4 Patient (1991-01-26) arrived: 11:53:38  Sampled: 11:53:02 
+Nurse Nurse-3 Patient (1932-11-25) arrived: 11:53:47  Sampled: 11:53:32 
+Nurse Nurse-2 Patient (1970-12-03) arrived: 11:54:15  Sampled: 11:53:40 
+Nurse Nurse-1 Patient (1986-01-24) arrived: 11:55:50  Sampled: 11:55:50 <===
+Nurse Nurse-2 Patient (1953-10-24) arrived: 11:56:07  Sampled: 11:56:07 
+Nurse Nurse-4 Patient (1985-09-12) arrived: 11:57:18  Sampled: 11:57:18 <===
+Nurse Nurse-3 Patient (1983-07-12) arrived: 11:57:46  Sampled: 11:57:46 
+Nurse Nurse-1 Patient (1980-03-18) arrived: 12:00:39  Sampled: 12:00:39 
+Nurse Nurse-2 Patient (1933-09-18) arrived: 12:01:00  Sampled: 12:01:00 
+Nurse Nurse-4 Patient (1952-09-12) arrived: 12:02:03  Sampled: 12:02:03 
+Nurse Nurse-3 Patient (1986-02-23) arrived: 12:06:01  Sampled: 12:06:01 <===
+Nurse Nurse-1 Patient (1946-02-19) arrived: 12:08:00  Sampled: 12:08:00 <===
+Nurse Nurse-2 Patient (1925-11-19) arrived: 12:09:05  Sampled: 12:09:05 <===
+Nurse Nurse-4 Patient (1965-06-16) arrived: 12:11:36  Sampled: 12:11:36 <===
+Nurse Nurse-3 Patient (1954-05-20) arrived: 12:12:22  Sampled: 12:12:22 <===
+Nurse Nurse-1 Patient (1998-04-11) arrived: 12:13:07  Sampled: 12:13:07 
+Nurse Nurse-2 Patient (1935-09-24) arrived: 12:13:35  Sampled: 12:13:35 
+Nurse Nurse-4 Patient (1987-09-27) arrived: 12:14:08  Sampled: 12:14:08 
+Nurse Nurse-3 Patient (1949-08-05) arrived: 12:14:23  Sampled: 12:14:23 
+Nurse Nurse-1 Patient (1981-08-11) arrived: 12:16:58  Sampled: 12:16:58 <===
+Nurse Nurse-2 Patient (1972-12-02) arrived: 12:18:46  Sampled: 12:18:46 <===
+Nurse Nurse-3 Patient (1925-05-25) arrived: 12:19:56  Sampled: 12:19:56 
+Nurse Nurse-4 Patient (1974-05-09) arrived: 12:21:12  Sampled: 12:21:12 
+Nurse Nurse-1 Patient (2003-05-07) arrived: 12:21:18  Sampled: 12:21:18 
+Nurse Nurse-2 Patient (1970-06-21) arrived: 12:23:12  Sampled: 12:23:12 
+Nurse Nurse-3 Patient (1946-07-21) arrived: 12:23:38  Sampled: 12:23:38 
+Nurse Nurse-4 Patient (1972-09-20) arrived: 12:24:54  Sampled: 12:24:54 <===
+Nurse Nurse-1 Patient (1960-02-17) arrived: 12:26:17  Sampled: 12:26:17 
+Nurse Nurse-2 Patient (1972-09-23) arrived: 12:34:06  Sampled: 12:34:06 
+Nurse Nurse-3 Patient (1925-09-17) arrived: 12:37:40  Sampled: 12:37:40 
+Nurse Nurse-4 Patient (1943-04-22) arrived: 12:38:47  Sampled: 12:38:47 <===
+Nurse Nurse-1 Patient (1949-03-22) arrived: 12:39:29  Sampled: 12:39:29 
+Nurse Nurse-2 Patient (1940-05-15) arrived: 12:40:24  Sampled: 12:40:24 <===
+Nurse Nurse-3 Patient (1986-12-25) arrived: 12:40:44  Sampled: 12:40:44 
+Nurse Nurse-4 Patient (1966-01-05) arrived: 12:42:35  Sampled: 12:42:35 
+Nurse Nurse-1 Patient (1957-11-12) arrived: 12:43:43  Sampled: 12:43:43 
+Nurse Nurse-3 Patient (1928-05-04) arrived: 12:45:20  Sampled: 12:45:20 
+Nurse Nurse-2 Patient (1948-06-04) arrived: 12:45:28  Sampled: 12:45:28 
+Nurse Nurse-4 Patient (1927-09-18) arrived: 12:45:51  Sampled: 12:45:51 
+Nurse Nurse-1 Patient (1945-02-17) arrived: 12:46:19  Sampled: 12:46:19 
+Nurse Nurse-3 Patient (1934-10-18) arrived: 12:47:34  Sampled: 12:47:34 
+Nurse Nurse-2 Patient (1933-09-19) arrived: 12:48:48  Sampled: 12:48:48 
+Nurse Nurse-4 Patient (2002-04-14) arrived: 12:49:18  Sampled: 12:49:18 
+Nurse Nurse-1 Patient (1934-02-08) arrived: 12:49:26  Sampled: 12:49:26 
+Nurse Nurse-3 Patient (1994-01-02) arrived: 12:52:30  Sampled: 12:52:30 
+Nurse Nurse-2 Patient (2005-01-23) arrived: 12:52:48  Sampled: 12:52:48 <===
+Nurse Nurse-1 Patient (1935-04-03) arrived: 12:53:22  Sampled: 12:53:22 <===
+Nurse Nurse-4 Patient (1972-12-13) arrived: 12:56:31  Sampled: 12:56:31 
+Nurse Nurse-2 Patient (1974-04-07) arrived: 12:57:41  Sampled: 12:57:41 
+Nurse Nurse-3 Patient (1986-12-18) arrived: 12:58:03  Sampled: 12:58:03 
+Nurse Nurse-1 Patient (1994-03-04) arrived: 12:58:13  Sampled: 12:58:13 
+Nurse Nurse-4 Patient (1967-09-11) arrived: 12:58:23  Sampled: 12:58:23 
+Nurse Nurse-2 Patient (2005-03-06) arrived: 13:03:22  Sampled: 13:03:22 
+Nurse Nurse-3 Patient (1950-12-20) arrived: 13:03:56  Sampled: 13:03:56 
+Nurse Nurse-1 Patient (1950-12-03) arrived: 13:05:44  Sampled: 13:05:44 
+Nurse Nurse-4 Patient (1943-02-01) arrived: 13:06:02  Sampled: 13:06:02 
+Nurse Nurse-3 Patient (1980-10-15) arrived: 13:06:03  Sampled: 13:06:03 
+Nurse Nurse-2 Patient (1981-07-21) arrived: 13:07:04  Sampled: 13:07:04 <===
+Nurse Nurse-4 Patient (1968-04-01) arrived: 13:07:31  Sampled: 13:07:19 <===
+Nurse Nurse-1 Patient (1976-09-26) arrived: 13:09:45  Sampled: 13:09:45 
+Nurse Nurse-2 Patient (1952-02-04) arrived: 13:10:34  Sampled: 13:10:34 
+Nurse Nurse-3 Patient (1957-07-10) arrived: 13:10:41  Sampled: 13:10:41 
+Nurse Nurse-4 Patient (1943-05-14) arrived: 13:10:44  Sampled: 13:10:44 <===
+Nurse Nurse-1 Patient (1950-08-18) arrived: 13:11:40  Sampled: 13:11:31 
+Nurse Nurse-2 Patient (1975-06-21) arrived: 13:15:25  Sampled: 13:15:25 
+Nurse Nurse-3 Patient (1948-11-11) arrived: 13:16:43  Sampled: 13:16:43 
+Nurse Nurse-4 Patient (1970-07-23) arrived: 13:17:04  Sampled: 13:17:04 
+Nurse Nurse-1 Patient (1927-05-09) arrived: 13:17:10  Sampled: 13:17:10 <===
+Nurse Nurse-2 Patient (1967-10-16) arrived: 13:18:50  Sampled: 13:18:50 
+Nurse Nurse-3 Patient (1944-03-05) arrived: 13:22:40  Sampled: 13:22:40 
+Nurse Nurse-4 Patient (1959-06-15) arrived: 13:26:33  Sampled: 13:26:33 <===
+Nurse Nurse-1 Patient (1951-06-26) arrived: 13:29:45  Sampled: 13:29:45 <===
+Nurse Nurse-2 Patient (1959-06-22) arrived: 13:30:43  Sampled: 13:30:43 
+Nurse Nurse-3 Patient (1977-01-28) arrived: 13:30:53  Sampled: 13:30:53 
+Nurse Nurse-4 Patient (1932-01-27) arrived: 13:31:35  Sampled: 13:31:35 
+Nurse Nurse-2 Patient (1948-04-16) arrived: 13:32:25  Sampled: 13:32:25 
+Nurse Nurse-1 Patient (1952-02-05) arrived: 13:35:19  Sampled: 13:35:19 <===
+Nurse Nurse-3 Patient (1975-02-07) arrived: 13:43:20  Sampled: 13:43:20 
+Nurse Nurse-4 Patient (1959-03-18) arrived: 13:46:32  Sampled: 13:46:32 <===
+Nurse Nurse-2 Patient (1940-08-21) arrived: 13:49:30  Sampled: 13:49:30 <===
+Nurse Nurse-1 Patient (1971-09-08) arrived: 13:52:03  Sampled: 13:52:03 
+Nurse Nurse-3 Patient (1972-07-14) arrived: 13:52:18  Sampled: 13:52:18 
+Nurse Nurse-4 Patient (1926-12-12) arrived: 13:55:03  Sampled: 13:55:03 
+Nurse Nurse-2 Patient (1954-05-17) arrived: 13:59:56  Sampled: 13:59:56 <===
+Nurse Nurse-1 Patient (1971-01-17) arrived: 14:00:18  Sampled: 14:00:18 
+Nurse Nurse-3 Patient (2004-03-25) arrived: 14:08:42  Sampled: 14:08:42 
+Nurse Nurse-4 Patient (1972-04-24) arrived: 14:10:12  Sampled: 14:10:12 <===
+Nurse Nurse-2 Patient (1947-07-28) arrived: 14:11:16  Sampled: 14:11:16 
+Nurse Nurse-1 Patient (1959-02-08) arrived: 14:17:32  Sampled: 14:17:32 
+Nurse Nurse-3 Patient (1954-01-15) arrived: 14:22:01  Sampled: 14:22:01 
+Nurse Nurse-4 Patient (2000-07-12) arrived: 14:22:10  Sampled: 14:22:10 
+Nurse Nurse-2 Patient (1990-09-23) arrived: 14:23:56  Sampled: 14:23:56 
+Nurse Nurse-1 Patient (1940-09-12) arrived: 14:28:08  Sampled: 14:28:08 <===
+Nurse Nurse-3 Patient (1973-10-02) arrived: 14:29:56  Sampled: 14:29:56 
+Nurse Nurse-4 Patient (2003-04-18) arrived: 14:34:21  Sampled: 14:34:21 
+Nurse Nurse-2 Patient (1949-08-18) arrived: 14:37:38  Sampled: 14:37:38 
+Nurse Nurse-1 Patient (1926-09-24) arrived: 14:55:00  Sampled: 14:55:00 <===
+Nurse Nurse-3 Patient (1979-02-08) arrived: 14:56:28  Sampled: 14:56:28 
+Nurse Nurse-4 Patient (1936-05-05) arrived: 14:57:56  Sampled: 14:57:56 
+Nurse Nurse-2 Patient (1940-11-25) arrived: 15:08:10  Sampled: 15:08:10 
+Nurse Nurse-1 Patient (1931-10-12) arrived: 15:08:34  Sampled: 15:08:34 <===
+Nurse Nurse-3 Patient (1947-07-20) arrived: 15:08:49  Sampled: 15:08:49 
+Nurse Nurse-4 Patient (2001-01-21) arrived: 15:09:20  Sampled: 15:09:20 <===
+Nurse Nurse-2 Patient (1951-06-10) arrived: 15:09:47  Sampled: 15:09:29 <===
+Nurse Nurse-1 Patient (1958-05-09) arrived: 15:10:32  Sampled: 15:10:32 
+Nurse Nurse-3 Patient (1938-01-20) arrived: 15:17:23  Sampled: 15:17:23 
+Nurse Nurse-4 Patient (1932-10-20) arrived: 15:19:11  Sampled: 15:19:11 
+Nurse Nurse-2 Patient (1995-02-11) arrived: 15:19:57  Sampled: 15:19:57 
+Nurse Nurse-1 Patient (1925-03-13) arrived: 15:20:06  Sampled: 15:20:06 <===
+Nurse Nurse-3 Patient (1952-04-09) arrived: 15:25:50  Sampled: 15:25:50 
+Nurse Nurse-1 Patient (1940-11-12) arrived: 15:27:19  Sampled: 15:27:19 
+Nurse Nurse-4 Patient (1930-10-01) arrived: 15:29:40  Sampled: 15:29:40 <===
+Nurse Nurse-2 Patient (1972-08-01) arrived: 15:30:24  Sampled: 15:30:24 
+Nurse Nurse-3 Patient (1971-11-17) arrived: 15:30:55  Sampled: 15:30:55 
+Nurse Nurse-1 Patient (1942-04-05) arrived: 15:30:56  Sampled: 15:30:56 <===
+Nurse Nurse-4 Patient (1956-10-26) arrived: 15:31:27  Sampled: 15:31:27 <===
+Nurse Nurse-2 Patient (1982-12-17) arrived: 15:33:23  Sampled: 15:33:23 
+Nurse Nurse-3 Patient (1954-05-12) arrived: 15:38:02  Sampled: 15:38:02 
+Nurse Nurse-1 Patient (2003-05-19) arrived: 15:38:21  Sampled: 15:38:21 
+Nurse Nurse-4 Patient (1935-02-28) arrived: 15:42:50  Sampled: 15:42:50 
+Nurse Nurse-2 Patient (1986-05-25) arrived: 15:43:17  Sampled: 15:43:17 
+Nurse Nurse-1 Patient (2002-08-24) arrived: 15:44:19  Sampled: 15:44:19 <===
+Nurse Nurse-3 Patient (1984-12-16) arrived: 15:48:55  Sampled: 15:48:55 
+Nurse Nurse-4 Patient (1955-02-15) arrived: 15:52:46  Sampled: 15:52:46

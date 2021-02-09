@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Profiel</title>
+    <script>
+        $(document).ready(() => {
+            var newOptions = {
+                "België": "option-1",
+                "Test": "option-1",
+                "Nederland": "option-2",
+                "Spanje": "option-3",
+                "Italië": "option-4",
+                "Frankrijk": "option-5",
+                "Griekenland": "option-6"
+            };
+            //   newOptions.sort(function(a, b) { return $(a).val() > $(b).val() ? 1 : -1; });
+            var bestemming = $('#bestemming');
+            bestemming.html(' ');
+            $.each(newOptions, function (key, value) {
+                bestemming.append($("<option></option>")
+                    .attr("value", value).text(key));
+            });
+        });
+    </script>
+</head>
+<body>
+<form>
+    <div class="form-group">
+        <label for="voornaam">Voornaam:</label>
+        <input id="voornaam" type="text" class="form-control is-invalid" placeholder="Voornaam" name="voornaam">
+    </div>
+    <div class="form-group">
+        <label for="achternaam">Achternaam:</label>
+        <input id="achternaam" type="text" class="form-control is-invalid" placeholder="Achternaam" name="achternaam">
+    </div>
+    <div class="form-group">
+        <label for="straatnaam">Straat:</label>
+        <input id="straatnaam" type="text" class="form-control is-invalid" placeholder="Straat" name="straatnaam">
+    </div>
+    <div class="form-group">
+        <label for="huisnummer">Huisnummer:</label>
+        <input id="huisnummer" type="text" class="form-control is-invalid" placeholder="Huisnummer" name="huisnummer">
+    </div>
+    <label for="bestemming">Favoriete bestemming (hou cmd ingedrukt om meerdere opties te selecteren):</label>
+    <select multiple class="form-control" id="bestemming" name="bestemming" size="5">
+    </select>
+</form>
+</body>
+</html>
