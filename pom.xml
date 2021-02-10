@@ -79,6 +79,15 @@
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
         </dependency>
+
+        <!--Start Pad FX-->
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>13</version>
+        </dependency>
+        <!--End Pad FX-->
+
         <!-- Start Only for development. Remove this -->
         <dependency>
             <groupId>org.springframework.boot</groupId>

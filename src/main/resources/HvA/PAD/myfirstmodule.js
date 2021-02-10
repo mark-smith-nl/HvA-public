@@ -3,5 +3,5 @@ exports.myDateTime = function () {
 };
 
 exports.olama = function () {
-    return 'Osamaaaaaaa';
+    return 'Idi';
 };
