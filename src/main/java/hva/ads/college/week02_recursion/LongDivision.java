@@ -1,4 +1,4 @@
-package hva.ads.college.recursion;
+package hva.ads.college.week02_recursion;
 
 import java.math.BigInteger;
 import java.util.HashMap;
