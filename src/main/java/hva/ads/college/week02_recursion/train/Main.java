@@ -14,15 +14,20 @@ public class Main {
                 .addWagon(new PassengerWagon(4, 44))
                 .addWagon(new PassengerWagon(5, 45));
 
+
         PassengerWagon lastWagon = firstWagon.getLastWagon();
+       // lastWagon.addWagon(firstWagon);
+       // lastWagon = firstWagon.getLastWagon();
+
         System.out.printf("Lastwagon: %s\n", lastWagon);
         System.out.printf("Firstwagon: %s\n", lastWagon.getFirstWagon());
         System.out.printf("Number of wagons: %d\n", firstWagon.getNumberOfWagons());
 
         System.out.printf("sequence: %s\n", firstWagon.sequenceAsString());
+        System.out.printf("sequence: %s\n", lastWagon.sequenceAsString());
         PassengerWagon reversed = firstWagon.reverse();
         System.out.printf("Reversed sequence: %s\n", reversed.sequenceAsString());
-    //    reversed.printSequence();
+        //    reversed.printSequence();
 
         //firstWagon = firstWagon.moveTailToFront();
 

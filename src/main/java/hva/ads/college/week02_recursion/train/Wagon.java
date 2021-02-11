@@ -7,11 +7,11 @@ import static java.lang.String.format;
  *
  * @author m.smithhva.nl
  */
-public abstract class Wagon<T extends Wagon<T>> {
+public abstract class Wagon<W extends Wagon<W>> {
 
-    protected T next;
+    protected W next;
 
-    protected T previous;
+    protected W previous;
 
     private final int id;
 
@@ -28,22 +28,22 @@ public abstract class Wagon<T extends Wagon<T>> {
     }
 
     @SuppressWarnings("unchecked cast")
-    public T getLastWagon() {
-        return next == null ? (T) this : next.getLastWagon();
+    public W getLastWagon() {
+        return next == null ? (W) this : next.getLastWagon();
     }
 
     @SuppressWarnings("unchecked cast")
-    public T getFirstWagon() {
-        return previous == null ? (T) this : previous.getFirstWagon();
+    public W getFirstWagon() {
+        return previous == null ? (W) this : previous.getFirstWagon();
     }
 
     @SuppressWarnings("unchecked cast")
-    public T moveTailToFront() {
-        T firstWagon = getFirstWagon();
-        T lastWagon = getLastWagon();
+    public W moveTailToFront() {
+        W firstWagon = getFirstWagon();
+        W lastWagon = getLastWagon();
 
         if (firstWagon != lastWagon) {
-            T previousTolast = lastWagon.previous;
+            W previousTolast = lastWagon.previous;
             // Disconnect last
             previousTolast.next = null;
             lastWagon.previous = null;
@@ -57,22 +57,24 @@ public abstract class Wagon<T extends Wagon<T>> {
     }
 
     @SuppressWarnings("unchecked cast")
-    public T addWagon(T wagon) {
+    public W addWagon(W wagon) {
         next = wagon;
-        wagon.previous = (T) this;
+        wagon.previous = (W) this;
         return wagon;
     }
 
-    public T reverse() {
-        T lastWagon = getLastWagon();
-        if (this == lastWagon) return (T) this;
+    public W reverse() {
+        W lastWagon = getLastWagon();
+        if (this == lastWagon) return (W) this;
 
-        T previousTolast = lastWagon.previous;
+        W previousTolast = lastWagon.previous;
         // Disconnect last. Always 2 operations
         previousTolast.next = null;
         lastWagon.previous = null;
+        // 1 -> 2 -> 3 -> 4
+        // 4  1 -> 2 -> 3
 
-        T secondWagon = reverse();
+        W secondWagon = reverse();
 
         // Connect the last wagon (the new first) to the reversed rest sequence. Always 2 operations
         lastWagon.next = secondWagon;

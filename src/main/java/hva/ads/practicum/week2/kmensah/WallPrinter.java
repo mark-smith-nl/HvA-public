@@ -32,6 +32,16 @@ public class WallPrinter {
     /**
      * Deze methode genereert een muur en print deze uit.
      *
+     *         buildWall(done, size): void
+     *         begin
+     *             if size < 0 then return
+     *             if size = 0 then
+     *                 print done
+     *             else
+     *                 buildWall(done + “|”,size-1)
+     *                 buildWall(done + “==“,size-2)
+     *             endif
+     *         end
      * @param wall de muur die geprint wordt
      * @param length de lengte van de muur
      */
@@ -50,19 +60,6 @@ public class WallPrinter {
     }
 
     /**
-     * Deze methode berekent het aantal verschillende combinaties van de muur. Het aantal combinaties wordt gebaseerd
-     * op de lengte van de muur.
-     *
-     *         buildWall(done, size): void
-     *         begin
-     *             if size < 0 then return
-     *             if size = 0 then
-     *                 print done
-     *             else
-     *                 buildWall(done + “|”,size-1)
-     *                 buildWall(done + “==“,size-2)
-     *             endif
-     *         end
      * @param length de lengte van de muur
      */
     static void generateWallCombinations(int length) {
