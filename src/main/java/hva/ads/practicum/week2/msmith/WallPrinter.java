@@ -87,8 +87,14 @@ public class WallPrinter {
 
     private static BigInteger calculatedNumberOfPossibilities(int totalNumberOfBricks) {
         BigInteger totalNumberOfPossibilities = ZERO;
+        int maxNumberOfStacksOfThreeBricks = totalNumberOfBricks / 3;
 
-        //TODO OnLine on Campus 11 feb. 2021
+        for (int numberOfStacksOfThreeBricks = 0; numberOfStacksOfThreeBricks <= maxNumberOfStacksOfThreeBricks; numberOfStacksOfThreeBricks++) {
+            int numberOfStandingBricks = totalNumberOfBricks - 3 * numberOfStacksOfThreeBricks; //
+            int numberOfPositions = numberOfStandingBricks + numberOfStacksOfThreeBricks;
+            BigInteger numberOfPossibilities = faculty(numberOfPositions).divide(faculty(numberOfStandingBricks)).divide(faculty(numberOfStacksOfThreeBricks));
+            totalNumberOfPossibilities = totalNumberOfPossibilities.add(numberOfPossibilities);
+        }
 
         return totalNumberOfPossibilities;
     }
