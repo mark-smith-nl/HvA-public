@@ -16,8 +16,8 @@ public class Main {
 
 
         PassengerWagon lastWagon = firstWagon.getLastWagon();
-       // lastWagon.addWagon(firstWagon);
-       // lastWagon = firstWagon.getLastWagon();
+        // lastWagon.addWagon(firstWagon);
+        // lastWagon = firstWagon.getLastWagon();
 
         System.out.printf("Lastwagon: %s\n", lastWagon);
         System.out.printf("Firstwagon: %s\n", lastWagon.getFirstWagon());
@@ -28,7 +28,7 @@ public class Main {
         PassengerWagon reversed = firstWagon.reverse();
         System.out.printf("Reversed sequence: %s\n", reversed.sequenceAsString());
         //    reversed.printSequence();
-
+        for (int i = 0; i < 10; System.out.println(i++));
         //firstWagon = firstWagon.moveTailToFront();
 
 
