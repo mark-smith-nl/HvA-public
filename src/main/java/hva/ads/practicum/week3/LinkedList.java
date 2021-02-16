@@ -57,6 +57,7 @@ public class LinkedList<T> implements SmallList<T> {
     @Override
     public Iterator<T> iterator() {
         return new Iterator<T>() {
+
             private Node<T> currentNode = head;
 
             @Override
@@ -75,20 +76,14 @@ public class LinkedList<T> implements SmallList<T> {
 
     @Override
     public String toString() {
-        StringBuilder toString = new StringBuilder();
-
-        for (T t : this) toString.append(t).append("-->");
-
-        return toString.append("NULL").toString();
+        return listToString();
     }
 
     private static class Node<T> {
 
         private final T value;
 
-        private Node<T> next;
-
-        private Node<T> previous;
+        private Node<T> next, previous;
 
         private Node(T value) {
             this.value = value;

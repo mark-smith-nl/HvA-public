@@ -38,4 +38,11 @@ public interface SmallList<T> extends Iterable<T> {
         return -1;
     }
 
+    default String listToString() {
+        StringBuilder toString = new StringBuilder();
+
+        for (T t : this) toString.append(t).append("-->");
+
+        return toString.append("NULL").toString();
+    }
 }

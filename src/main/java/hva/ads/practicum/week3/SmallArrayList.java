@@ -59,6 +59,7 @@ public class SmallArrayList<T> implements SmallList<T> {
     @Override
     public Iterator<T> iterator() {
         return new Iterator<T>() {
+
             int index = 0;
 
             @Override
@@ -75,10 +76,8 @@ public class SmallArrayList<T> implements SmallList<T> {
 
     @Override
     public String toString() {
-        StringBuilder toString = new StringBuilder();
-
-        for (T t : this) toString.append(t).append("-->");
-
-        return toString.append("NULL").toString();
+        return listToString();
     }
+
 }
+
