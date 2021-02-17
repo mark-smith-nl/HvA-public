@@ -15,10 +15,10 @@ public class Main {
         list.add("Jan", "Kees", "Karel");
 
         System.out.println(list.size());
-        for (String item : list) {
-            System.out.println(item);
-        }
-        System.out.println(list.find("Pieter"));
+        // list.forEach(System.out::println); This will be explained in a later 'werkcollege'
+        for (String item : list) System.out.println(item);
+
+       System.out.println(list.find("Pieter"));
         System.out.println(list.find("Karel"));
         System.out.println(list.find("Oscar"));
         System.out.println(list.find("Mark"));
@@ -40,5 +40,8 @@ public class Main {
         list.remove(list.size() - 1);
         System.out.println(list);
         System.out.println(list.size());
+
+        // list.remove(list.size() - 1); Dit moet een exception opleveren
+
     }
 }

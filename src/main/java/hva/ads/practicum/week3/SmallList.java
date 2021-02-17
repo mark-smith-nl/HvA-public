@@ -13,6 +13,11 @@ public interface SmallList<T> extends Iterable<T> {
 
     default void add(T... item) {
         for (int i = 0; i < item.length; add(item[i++])) ;
+
+       /* Verbose
+        for (int i = 0; i < item.length; i++) {
+            add(item[i]);
+        };*/
     }
 
     int size();
@@ -21,7 +26,7 @@ public interface SmallList<T> extends Iterable<T> {
         if (index >= size()) throw new IllegalArgumentException("Out of bound");
 
         Iterator<T> iterator = iterator();
-        for (int i = 0; i < index; i++) iterator.next();
+        for (int i = 0; i < index; i++) iterator.next(); // Loop through the values. Do not assign the value to a variable.
 
         return iterator.next();
     }
@@ -38,6 +43,7 @@ public interface SmallList<T> extends Iterable<T> {
         return -1;
     }
 
+    // Note: We can not name this method toString() since the toString method is already defined in Object causing the 'deadly diamond of death'.
     default String listToString() {
         StringBuilder toString = new StringBuilder();
 

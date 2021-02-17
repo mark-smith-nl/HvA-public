@@ -58,7 +58,7 @@ public class LinkedList<T> implements SmallList<T> {
     public Iterator<T> iterator() {
         return new Iterator<T>() {
 
-            private Node<T> currentNode = head;
+            private Node<T> currentNode = head; // Pointer to first element
 
             @Override
             public boolean hasNext() {

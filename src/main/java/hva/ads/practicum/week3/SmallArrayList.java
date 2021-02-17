@@ -38,6 +38,12 @@ public class SmallArrayList<T> implements SmallList<T> {
         capacity *= 2;
         T[] newValues = (T[]) new Object[capacity];
         for (int i = 0; i < values.length; newValues[i] = values[i++]) ;
+
+        /*Verbose
+        for (int i = 0; i < values.length; i++) {
+            newValues[i] = values[i];
+        }*/
+
         values = newValues;
     }
 
@@ -51,6 +57,12 @@ public class SmallArrayList<T> implements SmallList<T> {
         if (index < 0 || index >= size()) throw new IllegalArgumentException("Out of bound");
         T value = values[index];
         for (int i = index; i < size - 1; values[i] = values[i++ + 1]) ;
+
+        /*Verbose
+        for (int i = index; i < size - 1; i++) {
+            values[i] = values[i + 1];
+        }*/
+
         values[size - 1] = null;
         size--;
         return value;
