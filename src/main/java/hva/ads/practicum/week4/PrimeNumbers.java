@@ -1,5 +1,11 @@
 package hva.ads.practicum.week4;
 
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
+import java.math.BigInteger;
+import java.util.*;
+import java.util.stream.Collectors;
+
 /**
  * This method <description of functionality>
  *
@@ -8,36 +14,41 @@ package hva.ads.practicum.week4;
 public class PrimeNumbers {
 
     public static void main(String[] args) {
-        int upperBound = 100;
+        int upperBound = 2;
+
+        List<Method> methods = Arrays.stream(PrimeNumbers.class.getDeclaredMethods())
+                .filter(method -> method.getName().startsWith("getNumberOfPrimeNumbers"))
+                .collect(Collectors.toList());
+
+        Map<String, Map<Integer, BigInteger>> results = new TreeMap<>();
+        methods.forEach(method -> results.put(method.getName(), new TreeMap<>()));
 
         do {
+            int a = upperBound;
 
-            long start;
-            int numberOfPrimeNumbers;
-            long finish;
-
-            start = System.nanoTime();
-            numberOfPrimeNumbers = getNumberOfPrimeNumbersA1(upperBound);
-            finish = System.nanoTime();
-            System.out.printf("Number of primenumbers [2-%d]: %s. Time elapsed %10d\n", upperBound, numberOfPrimeNumbers, finish - start);
-
-            start = System.nanoTime();
-            numberOfPrimeNumbers = getNumberOfPrimeNumbersA2(upperBound);
-            finish = System.nanoTime();
-            System.out.printf("Number of primenumbers [2-%d]: %s. Time elapsed %10d\n", upperBound, numberOfPrimeNumbers, finish - start);
-
-            start = System.nanoTime();
-            numberOfPrimeNumbers = getNumberOfPrimeNumbersA3(upperBound);
-            finish = System.nanoTime();
-            System.out.printf("Number of primenumbers [2-%d]: %s. Time elapsed %10d\n", upperBound, numberOfPrimeNumbers, finish - start);
-
-            start = System.nanoTime();
-            numberOfPrimeNumbers = getNumberOfPrimeNumbersA4(upperBound);
-            finish = System.nanoTime();
-            System.out.printf("Number of primenumbers [2-%d]: %s. Time elapsed %10d\n", upperBound, numberOfPrimeNumbers, finish - start);
+            methods.forEach(method -> {
+                try {
+                    long start = System.nanoTime();
+                    int numberOfPrimeNumbers = (Integer) method.invoke(null, a);
+                    long finish = System.nanoTime();
+                    results.get(method.getName()).put(a, BigInteger.valueOf(finish - start));
+                    System.out.printf("Algorithm: %s. Number of primenumbers [2 - %8d]: %5d. Time elapsed %10d\n", method.getName(), a, numberOfPrimeNumbers, finish - start);
+                } catch (Exception e) {
+                    System.exit(-1);
+                }
+            });
             System.out.println();
             upperBound *= 2;
-        } while (upperBound < 10000000);
+        } while (upperBound < 100000);
+
+        System.out.println();
+        results.forEach((name, integerBigIntegerMap) -> {
+            System.out.println(name);
+            System.out.println("-".repeat(35));
+            System.out.printf("| %14s | %14s |\n", "log(t)", "log(N)");
+            integerBigIntegerMap.forEach((N, t) -> System.out.printf("| %14.8f | %14.8f |\n", Math.log(t.longValue()), Math.log(N)));
+            System.out.println("-".repeat(35) + "\n");
+        });
     }
 
     public static int getNumberOfPrimeNumbersA1(int upperBound) {
