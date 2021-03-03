@@ -19,20 +19,20 @@ public class PrimeNumbers {
         List<Method> methods = Arrays.stream(PrimeNumbers.class.getDeclaredMethods())
                 .filter(method -> method.getName().startsWith("getNumberOfPrimeNumbers"))
                 .collect(Collectors.toList());
-
+        methods.sort(Comparator.comparing(Method::getName));
         Map<String, Map<Integer, BigInteger>> results = new TreeMap<>();
         methods.forEach(method -> results.put(method.getName(), new TreeMap<>()));
 
         do {
-            int a = upperBound;
+            int N = upperBound; // Not conventional uppercase!
 
             methods.forEach(method -> {
                 try {
                     long start = System.nanoTime();
-                    int numberOfPrimeNumbers = (Integer) method.invoke(null, a);
+                    int numberOfPrimeNumbers = (Integer) method.invoke(null, N);
                     long finish = System.nanoTime();
-                    results.get(method.getName()).put(a, BigInteger.valueOf(finish - start));
-                    System.out.printf("Algorithm: %s. Number of primenumbers [2 - %8d]: %5d. Time elapsed %10d\n", method.getName(), a, numberOfPrimeNumbers, finish - start);
+                    results.get(method.getName()).put(N, BigInteger.valueOf(finish - start));
+                    System.out.printf("Algorithm: %s. Number of primenumbers [2 - %8d]: %5d. Time elapsed %10d\n", method.getName(), N, numberOfPrimeNumbers, finish - start);
                 } catch (Exception e) {
                     System.exit(-1);
                 }
@@ -41,20 +41,17 @@ public class PrimeNumbers {
             upperBound *= 2;
         } while (upperBound < 100000);
 
-        System.out.println();
         results.forEach((name, integerBigIntegerMap) -> {
-            System.out.println(name);
-            System.out.println("-".repeat(35));
-            System.out.printf("| %14s | %14s |\n", "log(t)", "log(N)");
+            System.out.printf("%s\n%s\n| %14s | %14s |\n", name, "-".repeat(35), "log(t)", "log(N)");
             integerBigIntegerMap.forEach((N, t) -> System.out.printf("| %14.8f | %14.8f |\n", Math.log(t.longValue()), Math.log(N)));
             System.out.println("-".repeat(35) + "\n");
         });
     }
 
-    public static int getNumberOfPrimeNumbersA1(int upperBound) {
+    public static int getNumberOfPrimeNumbersA1(int N) {
         int p = 2;
         int numberOfPrimes = 0;
-        while (p <= upperBound) {
+        while (p <= N) {
             int divisor = 2;
             boolean isPossiblePrime = true;
             while (divisor < p && isPossiblePrime) {
@@ -68,11 +65,11 @@ public class PrimeNumbers {
         return numberOfPrimes;
     }
 
-    public static int getNumberOfPrimeNumbersA2(int upperBound) {
+    public static int getNumberOfPrimeNumbersA2(int N) {
 
         int p = 3;
         int numberOfPrimes = 1;
-        while (p <= upperBound) {
+        while (p <= N) {
             int divisor = 2;
             boolean isPossiblePrime = true;
             while (divisor <= (int) Math.sqrt(p) && isPossiblePrime) {
@@ -86,11 +83,11 @@ public class PrimeNumbers {
         return numberOfPrimes;
     }
 
-    public static int getNumberOfPrimeNumbersA3(int upperBound) {
+    public static int getNumberOfPrimeNumbersA3(int N) {
 
         int p = 3;
         int numberOfPrimes = 1;
-        while (p <= upperBound) {
+        while (p <= N) {
             int divisor = 2;
             boolean isPossiblePrime = true;
             while (divisor * divisor <= p && isPossiblePrime) {
