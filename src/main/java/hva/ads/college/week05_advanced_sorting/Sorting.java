@@ -15,17 +15,23 @@ public class Sorting {
 
     public static void main(String[] args) {
 
-        List<Method> sortMethods = Arrays.stream(Sorting.class.getDeclaredMethods()).filter(method -> method.getName().matches("[a-z]_.*")).collect(Collectors.toList());
+        List<Method> sortMethods = Arrays.stream(Sorting.class.getDeclaredMethods()).filter(method -> method.getName().matches("[a-z]_ .*")).collect(Collectors.toList());
         sortMethods.sort(Comparator.comparing(Method::getName));
 
         sortMethods.forEach(m -> {
             try {
                 System.out.printf("Method %s sorting strings:\n\n", m.getName().substring(m.getName().lastIndexOf("_") + 1));
                 m.invoke(null, new Object[]{"mijn naam is mark smith ik woon in geldermalsen ik ben geboren in zutphen".split(" ")});
-                System.out.printf("\nMethod %s sorting integers:\n\n", m.getName());
+
+                System.out.printf("\nMethod %s sorting integers:\n\n", m.getName().substring(m.getName().lastIndexOf("_") + 1));
                 m.invoke(null, new Object[]{new Integer[]{5, 8, 5, 1, 99, 23, 55, 42, 45, 3, 1, 99}});
-                System.out.printf("\nMethod %s sorting characters:\n\n", m.getName());
-                m.invoke(null, new Object[]{new Character[]{'M','E','R','G','E','S','O','R','T','E','X','A','M','P','L','E'}});
+
+                System.out.printf("\nMethod %s sorting characters:\n\n", m.getName().substring(m.getName().lastIndexOf("_") + 1));
+                m.invoke(null, new Object[]{new Character[]{'M', 'E', 'R', 'G', 'E', 'S', 'O', 'R', 'T', 'E', 'X', 'A', 'M', 'P', 'L', 'E'}});
+
+                System.out.printf("\nMethod %s sorting characters:\n\n", m.getName().substring(m.getName().lastIndexOf("_") + 1));
+                m.invoke(null, new Object[]{new Character[]{'Q', 'U', 'I', 'C', 'K', 'S', 'O', 'R', 'T', 'E', 'X', 'A', 'M', 'P', 'L', 'E'}});
+
                 System.out.println();
             } catch (Exception e) {
                 System.exit(1);
@@ -80,6 +86,7 @@ public class Sorting {
 
     public static <T extends Comparable<T>> void d_MergeSort(T[] values) {
         T[] aux = Arrays.copyOf(values, values.length);
+        System.out.printf("%s (Unordered)\n\n", arrayAsString(values));
         mergeSort(values, aux, 0, values.length - 1);
         System.out.printf("%s (Ordered)\n\n", arrayAsString(values));
     }
@@ -100,6 +107,7 @@ public class Sorting {
      * - source[i] < source[i +1] ∀ i > mid (i.e. right array is sorted)
      * Postcondition:
      * - source[i] < source[i +1] ∀ i < hi (i.e. complete array is sorted)
+     *
      * @param values Source array
      * @param aux
      * @param lo     index firstelement
@@ -121,21 +129,40 @@ public class Sorting {
 
     public static <T extends Comparable<T>> void e_Quicksort(T[] values) {
         // Shuffle if needed
+        System.out.printf("%s (Unordered)\n\n", arrayAsString(values));
         quickSort(values, 0, values.length - 1);
         System.out.printf("%s (Ordered)\n\n", arrayAsString(values));
     }
 
     private static <T extends Comparable<T>> void quickSort(T[] values, int lo, int hi) {
         if (lo == hi) return;
-        int p = quickSort(values, lo, (hi + lo) / 2, hi);
-
+        int p = partition(values, lo, (hi + lo) / 2, hi);
+        // The element on position p is on its final position
         if (p > lo) quickSort(values, lo, p - 1);
         if (p < hi) quickSort(values, p + 1, hi);
         System.out.printf("%s PivotIndex: %d (Unordered)\n", arrayAsString(values), p);
-
     }
 
-    private static <T extends Comparable<T>> int quickSort(T[] values, int lo, int pivotIndex, int hi) {
+    private static <T extends Comparable<T>> int partition(T[] values, int lo, int pivotIndex, int hi) {
+        int leftIndex = lo, rightIndex = hi;
+
+        while (leftIndex < pivotIndex || rightIndex > pivotIndex) { // While there are unchecked values either on the left or right do check.
+            while (leftIndex < pivotIndex && values[leftIndex].compareTo(values[pivotIndex]) <= 0) leftIndex++;
+            while (rightIndex > pivotIndex && values[rightIndex].compareTo(values[pivotIndex]) >= 0) rightIndex--;
+            if (leftIndex < pivotIndex && rightIndex > pivotIndex) {
+                    swap(values, leftIndex, rightIndex);
+            } else if (rightIndex > pivotIndex) {
+                swap(values, pivotIndex, rightIndex);
+                pivotIndex = rightIndex;
+            } else {
+                swap(values, pivotIndex, leftIndex);
+                pivotIndex = leftIndex;
+            }
+        }
+        return pivotIndex;
+    }
+
+    private static <T extends Comparable<T>> int partition2(T[] values, int lo, int pivotIndex, int hi) {
         int leftIndex = lo, rightIndex = hi;
 
         while (leftIndex < pivotIndex || rightIndex > pivotIndex) { // While there are unchecked values either on the left or right do check.
@@ -143,25 +170,23 @@ public class Sorting {
             while (rightIndex > pivotIndex && values[rightIndex].compareTo(values[pivotIndex]) >= 0) rightIndex--;
             if (leftIndex < pivotIndex) {
                 if (rightIndex > pivotIndex) {
-                    T tempValue = values[leftIndex];
-                    values[leftIndex] = values[rightIndex];
-                    values[rightIndex] = tempValue;
+                    swap(values, leftIndex, rightIndex);
                 } else {
-                    T tempValue = values[pivotIndex];
-                    values[pivotIndex] = values[leftIndex];
-                    values[leftIndex] = tempValue;
+                    swap(values, pivotIndex, leftIndex);
                     pivotIndex = leftIndex;
                 }
-            } else {
-                if (rightIndex > pivotIndex) {
-                    T tempValue = values[pivotIndex];
-                    values[pivotIndex] = values[rightIndex];
-                    values[rightIndex] = tempValue;
-                    pivotIndex = rightIndex;
-                }
+            } else if (rightIndex > pivotIndex) {
+                swap(values, pivotIndex, rightIndex);
+                pivotIndex = rightIndex;
             }
         }
         return pivotIndex;
+    }
+
+    private static <T extends Comparable<T>> void swap(T[] values, int indexA, int indexB) {
+        T tempValue = values[indexA];
+        values[indexA] = values[indexB];
+        values[indexB] = tempValue;
     }
 
     public static <T extends Comparable<T>> String arrayAsString(T[] values) {
