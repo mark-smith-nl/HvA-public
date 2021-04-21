@@ -15,7 +15,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Person person  = Person.builder().bsn("sgsdfgsdfg").dateOfBirth(of(2000, 1, 1)).lastName("Smith").build();
+        Person.builder().bsn("sgsdfgsdfg").dateOfBirth(of(2000, 1, 1)).lastName("Smith").build();
         System.out.println(Person.builder()
                 .bsn("1234567")
                 .dateOfBirth(of(1965, 7, 28))
