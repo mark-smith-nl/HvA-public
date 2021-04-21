@@ -13,6 +13,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import static java.math.BigInteger.*;
+
 /**
  * Examples using Stream.generate()
  *
@@ -46,7 +48,7 @@ public class StreamExamples {
         initializeJdbcTemplate();
 
         ObjectWrapper<Boolean> endOfStream = new ObjectWrapper<>(false);
-        IntegerWrapper offset = new IntegerWrapper(BigInteger.ZERO);
+        IntegerWrapper offset = new IntegerWrapper(ZERO);
         Stream.generate(() -> getCountriesWithEosSentinel(endOfStream, offset))
                 .takeWhile(c -> !endOfStream.get())
                 .flatMap(Collection::stream)
@@ -57,7 +59,7 @@ public class StreamExamples {
     public static void sampleDatabaseKnowingNumberOfEntries() {
         initializeJdbcTemplate();
 
-        IntegerWrapper offset = new IntegerWrapper(BigInteger.ZERO);
+        IntegerWrapper offset = new IntegerWrapper(ZERO);
         Stream.generate(() -> getCountries(offset))
                 .limit(getNumberOffCountries() / limit + 1)
                 .flatMap(Collection::stream)
@@ -179,11 +181,11 @@ public class StreamExamples {
         }
 
         public ObjectWrapper<BigInteger> increaseAndGet() {
-            return set(get().add(BigInteger.ONE));
+            return increaseAndGet(1);
         }
 
         public ObjectWrapper<BigInteger> increaseAndGet(long v) {
-            return set(get().add(BigInteger.valueOf(v)));
+            return set(get().add(valueOf(v)));
         }
     }
 }
