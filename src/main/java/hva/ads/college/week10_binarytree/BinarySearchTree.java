@@ -1,17 +1,18 @@
 package hva.ads.college.week10_binarytree;
 
-import javax.validation.constraints.NotNull;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
 /**
  * This method <description of functionality>
  *
  * @author m.smithhva.nl
  */
+
 public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> {
 
     private Node<T> root;
@@ -19,6 +20,11 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
     @Override
     public int size() {
         return root == null ? 0 : root.size();
+    }
+
+    @Redundant("Redundant since it can be derived from the number of Nodes. Size is retrieved from the instance field.")
+    public int getSize() {
+        return root == null ? 0 : root.getSize();
     }
 
     public int depth() {
@@ -70,7 +76,7 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
 
     @Override
     public Object[] toArray() {
-        return output(Node.ORDER.INORDER);
+        return println(Node.ORDER.INORDER);
     }
 
     @Override
@@ -93,7 +99,8 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
     }
 
     @Override
-    public boolean containsAll(Collection<?> c) {
+    public boolean containsAll(Collection<?> values) {
+        //values.stream().map(this::contains)
         return false;
     }
 
@@ -121,7 +128,7 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
         root = null;
     }
 
-    public T[] output(Node.ORDER order) {
+    public T[] println(Node.ORDER order) {
         return root.toArray(order);
     }
 
@@ -142,12 +149,16 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
     }
 
     public T get(int index) {
-        return root == null || index < 0 ? null : root.get(index);
+        return root == null || index < 0 || index >= size() ? null : root.get(index);
+    }
+
+    public Node<T> getRoot() {
+        return root;
     }
 
     @Override
     public String toString() {
-        return String.format("BinarySearchTree size=%d depth=%d balanced=%b %s", size(), depth(), balanced(), root);
+        return String.format("BinarySearchTree size=%d(%d) depth=%d balanced=%b %s", size(), getSize(), depth(), balanced(), root);
     }
 
     private static class Node<T extends Comparable<T>> {
@@ -164,32 +175,50 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
 
         private Node<T> right;
 
+        @Redundant("Redundant since it can be derived from the number of Nodes")
+        private int size = 1;
+
         private Node(T value) {
             this.value = value;
         }
 
         private boolean add(T value) {
-            if (value == null) return false;
+            boolean valueAdded = false;
 
-            int comparison = value.compareTo(this.value);
-
-            if (comparison == 0) return false;
-
-            if (comparison < 0) {
-                if (left != null) return left.add(value);
-                left = new Node<T>(value);
-                return true;
+            if (value != null) {
+                int comparison = value.compareTo(this.value);
+                if (comparison < 0) {
+                    if (left != null) {
+                        valueAdded = left.add(value);
+                    } else {
+                        left = new Node<T>(value);
+                        valueAdded = true;
+                    }
+                } else if (comparison > 0) {
+                    if (right != null) {
+                        valueAdded = right.add(value);
+                    } else {
+                        right = new Node<T>(value);
+                        valueAdded = true;
+                    }
+                }
             }
 
-            if (right != null) return right.add(value);
-            right = new Node<T>(value);
-            return true;
+            if (valueAdded) size++;
+
+            return valueAdded;
         }
 
+        // The calculated size
         public int size() {
             return (left == null ? 0 : left.size()) +
                     1 +
                     (right == null ? 0 : right.size());
+        }
+
+        @Redundant("Redundant since it can be derived from the number of Nodes. Size is retrieved from the instance field.")
+        public int getSize() {
+            return size;
         }
 
         public int depth() {
@@ -288,8 +317,10 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
         }
 
         private T get(int index) {
-            //TODO implement
-            return null;
+            int sizeLeft = left == null ? 0 : left.size;
+            if (index < sizeLeft) return left.get(index);
+            if (index - sizeLeft == 0) return value;
+            return right.get(index - sizeLeft - 1);
         }
 
         @Override
@@ -298,10 +329,66 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
                     .map(String::valueOf)
                     .collect(Collectors.joining(", ", "{", "}"));
         }
+    }
 
+
+    public static class TreeDiagram<T extends Comparable<T>> {
+
+        private final int depth;
+
+        private final Object[][] row;
+
+        public TreeDiagram(BinarySearchTree<T> tree) {
+            depth = tree.depth();
+
+            if (depth == 0) {
+                row = null;
+            } else {
+                row = new Object[depth][];
+                for (int i = 0; i < depth; i++) {
+                    row[i] = new Object[i == 0 ? 1 : 2 * row[i - 1].length];
+                    if (i == 0) {
+                        row[0][0] = tree.getRoot();
+                    } else {
+                        for (int j = 0; j < 2 * row[i - 1].length; j = j + 2) {
+                            Object parent = row[i - 1][j / 2];
+                            if (parent != null) {
+                                row[i][j] = ((Node<?>) parent).left;
+                                row[i][j + 1] = ((Node<?>) parent).right;
+                            }
+                        }
+                    }
+                }
+            }
+
+            System.out.println();
+        }
     }
 
     public static void main(String[] args) {
+        BinarySearchTree<Character> tree = new BinarySearchTree<>();
+
+        tree.add('S', 'E', 'A', 'C', 'R', 'H', 'M', 'X');
+        System.out.println(tree);
+        for (Object value : tree.toArray()) System.out.printf("Value %s has index: %d\n", value, tree.indexOf((Character) value));
+        System.out.println("-".repeat(40));
+        System.out.println(tree);
+        Character value = 'G';
+        System.out.printf("Floor('%s') = %s.\n", value, tree.floor(value));
+        System.out.printf("Ceiling('%s') = %s.\n", value, tree.ceiling(value));
+        value = 'Z';
+        System.out.printf("Floor('%s') = %s.\n", value, tree.floor(value));
+        System.out.printf("Ceiling('%s') = %s.\n", value, tree.ceiling(value));
+        System.out.println("-".repeat(40));
+        Node.ORDER order = Node.ORDER.INORDER;
+        System.out.println(Stream.of(tree.println(order)).map(Object::toString).collect(Collectors.joining(", ", order.toString() + "[", "]")));
+        order = Node.ORDER.PREORDER;
+        System.out.println(Stream.of(tree.println(order)).map(Object::toString).collect(Collectors.joining(" ", order.toString() + "[", "]")));
+        order = Node.ORDER.POSTORDER;
+        System.out.println(Stream.of(tree.println(order)).map(Object::toString).collect(Collectors.joining(" ", order.toString() + "[", "]")));
+    }
+
+    public static void main2(String[] args) {
         BinarySearchTree<BigDecimal> tree = new BinarySearchTree<>();
         tree.add(BigDecimal.valueOf(7.0));
         tree.add(BigDecimal.valueOf(8.0));
@@ -314,24 +401,30 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
         tree.add(BigDecimal.valueOf(8.65));
         System.out.println(tree);
 
-        BigDecimal value = BigDecimal.valueOf(6.6);
+        BigDecimal step = BigDecimal.valueOf(0.2);
+        BigDecimal value = BigDecimal.valueOf(6.9);
 
-        while (value.compareTo(BigDecimal.valueOf(10.1)) <= 0) {
-            System.out.printf("Floor %f = %f\n", value, tree.floor(value));
-            value = value.add(BigDecimal.valueOf(0.1));
+        while (value.compareTo(BigDecimal.valueOf(10.2)) <= 0) {
+            System.out.printf("Floor %.1f = %.3f\n", value, tree.floor(value));
+            value = value.add(step);
         }
 
-        value = BigDecimal.valueOf(6.6);
+        System.out.println(tree);
+        value = BigDecimal.valueOf(6.9);
         System.out.println("-".repeat(40));
-        while (value.compareTo(BigDecimal.valueOf(10.1)) <= 0) {
-            System.out.printf("Floor %f = %f\n", value, tree.ceiling(value));
-            value = value.add(BigDecimal.valueOf(0.1));
+        while (value.compareTo(BigDecimal.valueOf(10.2)) <= 0) {
+            System.out.printf("Ceiling %.1f = %.3f\n", value, tree.ceiling(value));
+            value = value.add(step);
         }
 
-        //System.out.println(tree.ceiling(7.2));
+        System.out.println(tree);
+        for (int index = 0; index < tree.size(); System.out.printf("Tree.get(%d) = %.3f\n", index, tree.get(index++))) ;
+
+        TreeDiagram<BigDecimal> bigDecimalTreeDiagram = new TreeDiagram<>(tree);
+        System.out.println();
     }
 
-    public static void main2(String[] args) {
+    public static void main3(String[] args) {
         BinarySearchTree<Integer> tree = new BinarySearchTree<>();
         System.out.println(tree.addAll(Arrays.asList(8, 4, 12, 2, 6, 10)));
         System.out.println(tree.addAll(Arrays.asList(8, 4, 12, 2, 6, 10, 14)));
@@ -343,11 +436,11 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
 
         System.out.println("-".repeat(40));
         System.out.printf("Print using %s.\n", Node.ORDER.PREORDER);
-        for (Integer value : tree.output(Node.ORDER.PREORDER)) System.out.println(value);
+        for (Integer value : tree.println(Node.ORDER.PREORDER)) System.out.println(value);
 
         System.out.println("-".repeat(40));
         System.out.printf("Print using %s.\n", Node.ORDER.POSTORDER);
-        for (Integer value : tree.output(Node.ORDER.POSTORDER)) System.out.println(value);
+        for (Integer value : tree.println(Node.ORDER.POSTORDER)) System.out.println(value);
 
         System.out.println("-".repeat(40));
         System.out.println("Testing if the tree does contain values:");
@@ -384,6 +477,5 @@ public class BinarySearchTree<T extends Comparable<T>> implements Collection<T> 
         System.out.println("-".repeat(40));
         System.out.println("Determine indexOf of all the components.");
         for (int value : v) System.out.printf("Tree (%s) index of %d: %d.\n", tree, value, tree.indexOf(value));
-
     }
 }
